@@ -13,6 +13,13 @@ How has the recent blooming of microbiome science sparked our imaginations? The 
 ### I. A Multitude of Metaphors in Ed Yong’s *I Contain Multitudes*
 I will focus on Ed Yong’s 2016 popular scientific account of microbiome science, *I Contain Multitudes: The Microbes Within Us and a Grander View of Life*. Yong is a science journalist who writes regularly for The Atlantic and posted videos on YouTube for a short while. To help synthesize an extensive set of scientific texts and interviews throughout the book, Ed Yong also develops numerous metaphorical representations of that material. Each chapter deploys a dominant metaphor to relate the details of microbiome research and their significance for understanding the human’s place in a world constituted by microbes. These linguistic techniques help to overcome the tension between the microbiome’s “inevitable presence” and “invisible” scale. Yong “want[s] to show [us] what the animal kingdom really looks like.” Without understanding microbiota and the symbiotic relations in which they participate, “we are looking at our lives through a key hole,” writes Yong. “This book will open the door fully.”
 
+{{< figureCupper
+img="yong-cover.png"
+caption="Ed Yong's *I Contain Multitude's* (HarperCollins 2016)"
+command="Resize"
+options="500x"
+>}}
+
 These quotations are from the book’s first chapter, which is worth addressing at length for how it frames metaphors as making Yong’s presentation of microbiome science possible. As you surely noticed, vision frequently stands in for knowledge and awareness. As Yong concludes the first chapter: “This is the living world as it actually is, and although it is still invisible to my eyes, I can finally see it.” Here, Yong fills out the ocular paradigm with the phrase, “the living world as it actually is.” To see the unseeable: this is to approach (a more) complete reality.
 	
 To calibrate this invisible vision, chapter one opens with, and recurs to, a conventional trope lifted from astronomy and geology: a spatial representation of time. Yong deploys a calendar year and a clock to imagine a chronicle of the Earth’s deep history. While humans showed up no more than 30 minutes ago, and plants and animals in early October, microbes have been around since March. Organisms that are visible to the human eye therefore occupy a “coda.” The definition of “coda” is “a concluding passage,” “typically to a basic structure.” This paints microscopic lifeforms in a privileged light both in temporal and structural terms. The Anthropocene, Yong contends, could be set within, and on the basis of, an ongoing “Microbiocene.”
@@ -33,7 +40,9 @@ I could spend hours going through *I Contain Multitudes* to analyze its many met
 This is what medicine looks like when you understand that microbes are not the enemies of animals, but the foundations upon which our kingdom is built. Say goodbye to dated and dangerous war metaphors, in which we are soldiers hell-bent on eradicating germs at whatever cost. Say hello to a gentler and more nuanced gardening metaphor. Yes, we still have to pull out the weeds, but we also seed and feed the species that bind the soil, freshen the air, and please the eye.
 {{< /blockquote >}}
 
-[About the slide: I am reminded of Emily Martin's work on how research into the immmune system imported the rhetoric of guarding the nation's borders from illegal immigrants and trespassers. This self-other dichotomy has, until recently, been the guiding concept for understanding the immune system—especially in colloquial language. Immunology, Martin contends, thererby naturalized the perpetual violence along the border.] 
+{{< expandable label="Speaking of military metaphors..." level="4" >}}
+I am reminded of Emily Martin's work on how research into the immmune system imported the rhetoric of guarding the nation's borders from illegal immigrants and trespassers. This self-other dichotomy has, until recently, been the guiding concept for understanding the immune system—especially in colloquial language. Immunology, Martin contends, thererby naturalized the perpetual violence along the border.
+{{< /expandable >}}
 
 Instead, I’ll now take a look at the recurring paradigm of technical utility. By “utility” I mean to highlight that what matters most in Yong’s account is the function fulfilled by microbes for us and other plants and animals; by “technical” I mean to call attention to how this functional representation draws from the conceptual resources of already existing technologies.
 
@@ -46,6 +55,13 @@ This language of experience as an expendable material reflects the progression m
 To encapsulate the breadth and speed of this fluctuating diversity, as well as to suggest what it means—and could mean in the future—for us humans, Yong offers a science fiction: “imagine a world where friends and colleagues can swap genes at will.” Here his metaphors get the better of him: the dynamic scheme of interrelation has been replaced by a liberal economic marketplace for the free exchange of genetic tools and microbial prostheses. Problematically, this implies an overly static macroscopic individuality that serves as a stable basis or core from which to engage in microbial experimentation. On the whole, though, Yong respects the ecological complexity argued for by microbiome scientists. His rhetorical strategy of metaphorically equating the micro with the macro brings out a productive tension between anthropomorphizing microbes and turning us into microbes. Anthropomorphism might be a good thing for undoing anthropocentrism—but only when paired with its inverse. Let’s pursue Yong’s science-fictional turn with a sci-fi novel that frames humans in intimate connection with, and even as, microbes.
 
 ### II. Invisible Mess in Sterling’s *Schismatrix*
+
+{{< figureCupper
+img="schismatrix-plus.jpg"
+caption="Bruce Sterling, *Schismatrix Plus* (Ace Books 1996)"
+command="Resize"
+options="400x"
+>}}
 
 *Schismatrix*, Bruce Sterling’s 1985 sort-of-cyberpunk space opera, is a strange book: part cosmic epic starring humanist romantic Abelard Lindsay, part speculative chronicle in which the characters are ideologies and galactic corporate-states. Sometimes it leaps from scene to scene by the decade, from putting on a Shakespeare play to earn money on a corporate artificial world in lunar orbit to a woman whose flesh becomes a building. Most humans left Earth after a series of environmental catastrophes and developed into two dominant factions: the Shapers and the Mechanists. Mechanists are the human-machine hybrids we typically think of as cyborgs or posthumans, and what Shapers pejoratively refer to as “wireheads.” Shapers, by contrast, wield “psychotech” to train the flesh at an extreme level of detail and control (66). This is the split whence a multiplicity of clades differentiate in order to adopt, adapt to, and create as many ecological niches as there are “multiple humanities.” (A clade refers to a group of animals with a common ancestor. Sterling often uses it in the novel, and of course Yong would likely content that we all belong to a microbial clade.)
 	
@@ -81,7 +97,12 @@ Fertile soil required a minimum of ten million bacterial cells per cubic centime
 
 When traveling to a new planet, one’s microbiome must adapt to the novel microbial flora both on the spaceship and at the destination. A nerdy drinking game could be devised for the audiobook revolving around the frequency of words related to microbially induced effluvia. Characters are constantly coughing, sneezing, and observing smaller organisms consuming their bodily detritus. There’s some overlap with Yong’s emphasis on the invisible necessity of microbes, but Sterling also emphasizes the messiness of microbes—something that is more at home in Steve Mould’s microbe primer for kids (there’s a lot of fart humor).
 
-
+{{< figureCupper
+img="mould-cover.jpg"
+caption="Steve Mould"
+command="Resize"
+options="300x"
+>}}
 	
 And this microbial shaping of worlds shapes the protagonist’s ethics: “Worlds were frail places,” Lindsay reflects. “The safety of worlds was the universal basis of morality” (13). Sterling’s microbial realism, if you will, does much more than signal a scientifically critical perspective on a weird, disgusting reality—i.e. the respective elements in Darko Suvin’s generic definition of science fiction as cognitive estrangement. It proposes that we adopt an ethics of care toward a constantly ramifying invisible world that may well always already be in the process of alienating our present reality, of alienating us. The microbially churning worlds in Schismatrix lay the fictional groundwork for a story in which characters continually recreate themselves. Yong says that the flux in our microbiomes enables the stability of ourselves. Sterling, by contrast, throws that macroscopic stability into flux, partially due to the microscopic generation of the world. The just quoted passage about bacteria in the soil continues:
 
