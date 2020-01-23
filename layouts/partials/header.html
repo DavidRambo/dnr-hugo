@@ -1,0 +1,22 @@
+<header class="intro-and-nav" role="banner">
+  
+  <style>
+    .header-title {
+      letter-spacing: 3px;
+    }
+  </style>
+  
+  <div>
+    <div class="intro">
+      <a href="/" aria-label="{{ .Site.Title }} home page">
+        <p class="header-title"> READING RAMBO</p>
+      </a>
+      <p class="library-desc">
+        {{ with .Site.Params.description }}
+          {{ . | markdownify }}
+        {{ end }}
+      </p>
+    </div>
+    {{ partial "nav.html" . }}
+  </div>
+</header>
