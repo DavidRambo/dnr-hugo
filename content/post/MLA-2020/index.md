@@ -1,5 +1,5 @@
 ---
-title: "MLA 2020"
+title: "Representing Microbes (MLA 2020)"
 date: 2020-01-12T12:00:00
 tags: ["conference talks", "literary criticism", "microbiome", "science fiction"]
 toc: false
