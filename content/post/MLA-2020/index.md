@@ -2,15 +2,16 @@
 title: "MLA 2020"
 date: 2020-01-12T12:00:00
 tags: ["conference talks", "literary criticism", "microbiome", "science fiction"]
+toc: false
 ---
 
-Below is the transcript of my talk at MLA 2020 in Seattle. It was delivered as part of a panel organized by Kym Weed and Melissa Wills titled "Being Human in a Microbial World."
+Below is the transcript of my talk at MLA 2020 in Seattle. It was delivered as part of a panel organized by Kym Weed (UNC-CH) and Melissa Wills (UC Davis) titled "Being Human in a Microbial World."
 
-## Microbial Representations in Yong’s *Multitudes* and Sterling’s *Schismatrix*
+# Microbial Representations in Yong’s *Multitudes* and Sterling’s *Schismatrix*
 
 How has the recent blooming of microbiome science sparked our imaginations? The imagination of course is essential for understanding the unseen abundance of microscopic life as well as for responding to that understanding. Furthermore, what literary resources might we tap to foster our microbial imaginations? I think these questions are foundational for properly addressing what are arguably higher-stake problems from the status of the human individual’s identity, biological or otherwise, to debates regarding the engineering of microbes for industrial, medical, and environmental purposes. To that end, this talk provides a groundwork exploration of how we talk about microbes.
 
-### I. A Multitude of Metaphors in Ed Yong’s *I Contain Multitudes*
+## I. A Multitude of Metaphors in Ed Yong’s *I Contain Multitudes*
 I will focus on Ed Yong’s 2016 popular scientific account of microbiome science, *I Contain Multitudes: The Microbes Within Us and a Grander View of Life*. Yong is a science journalist who writes regularly for The Atlantic and posted videos on YouTube for a short while. To help synthesize an extensive set of scientific texts and interviews throughout the book, Ed Yong also develops numerous metaphorical representations of that material. Each chapter deploys a dominant metaphor to relate the details of microbiome research and their significance for understanding the human’s place in a world constituted by microbes. These linguistic techniques help to overcome the tension between the microbiome’s “inevitable presence” and “invisible” scale. Yong “want[s] to show [us] what the animal kingdom really looks like.” Without understanding microbiota and the symbiotic relations in which they participate, “we are looking at our lives through a key hole,” writes Yong. “This book will open the door fully.”
 
 {{< figureCupper
@@ -54,7 +55,7 @@ This language of experience as an expendable material reflects the progression m
 
 To encapsulate the breadth and speed of this fluctuating diversity, as well as to suggest what it means—and could mean in the future—for us humans, Yong offers a science fiction: “imagine a world where friends and colleagues can swap genes at will.” Here his metaphors get the better of him: the dynamic scheme of interrelation has been replaced by a liberal economic marketplace for the free exchange of genetic tools and microbial prostheses. Problematically, this implies an overly static macroscopic individuality that serves as a stable basis or core from which to engage in microbial experimentation. On the whole, though, Yong respects the ecological complexity argued for by microbiome scientists. His rhetorical strategy of metaphorically equating the micro with the macro brings out a productive tension between anthropomorphizing microbes and turning us into microbes. Anthropomorphism might be a good thing for undoing anthropocentrism—but only when paired with its inverse. Let’s pursue Yong’s science-fictional turn with a sci-fi novel that frames humans in intimate connection with, and even as, microbes.
 
-### II. Invisible Mess in Sterling’s *Schismatrix*
+## II. Invisible Mess in Sterling’s *Schismatrix*
 
 {{< figureCupper
 img="schismatrix-plus.jpg"
