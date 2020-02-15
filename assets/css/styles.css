@@ -1,0 +1,36 @@
+/* Text styles */
+html,
+body,
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.2rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125;
+}
+h1 {
+    font-size: 1.77rem;
+}
+h2 {
+    font-size: 1.33rem;
+}
+h3 {
+    font-size: 1rem;
+}
+h4{
+    font-size: 0.75rem;
+    text-transform: uppercase;
+}
+h5 {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+}
+
+title {
+    font-style: italic;
+}

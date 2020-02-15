@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <main id="main">
+    <h1>{{ .Title }}</h1>
+    <ul class="patterns-list">
+      {{ range .Data.Terms.Alphabetical }}
+        <li>
+          <h2>
+            <a href="{{ .Page.RelPermalink }}">
+              {{ printf "(%d) %s" .Count .Page.Title }}
+            </a>
+          </h2>
+        </li>
+      {{ end }}
+    </ul>
+  </main>
+{{ end }}
