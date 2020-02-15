@@ -1,0 +1,5 @@
+{{ $link := .Inner }}
+
+{{ with (.Get "uri") }}
+  <a href="{{ . }}" target="_blank">{{ $link | markdownify }}</a>
+{{ end }}
