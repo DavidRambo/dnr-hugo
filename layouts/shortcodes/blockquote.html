@@ -1,0 +1,11 @@
+{{ $quote := .Inner }}
+
+<blockquote class="blockquote" style="margin-left: 20px; border-left: 4px solid #2b5f77; font-size: 1rem;">
+  <p style="color: black;">
+    {{ $quote | markdownify }}
+    <br>
+    {{ with (.Get "caption") }}
+      <span>&mdash; {{ . | markdownify }} </span>
+    {{ end }} 
+  </p>
+</blockquote>
