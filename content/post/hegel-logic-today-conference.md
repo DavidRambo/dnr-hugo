@@ -4,6 +4,8 @@ date: 2015-11-05
 tags: ["Hegel"]
 toc: true
 ---
+A summary of a symposium held at Duke University in Fall 2015 at the end of Professor Jameson's seminar on Hegel's *Science of Logic*. Published {{< link uri="https://sites.duke.edu/criticaltheory/hegels-logic-today/hegels-logic-conference-summary/" >}}here{{< /link >}}.
+
 ## Fredric Jameson, “Hegel and Marxist Literary Criticism”
 
 Jameson began his talk with reference to Adorno’s remark: we can never be sure of Hegel’s object, what he is discussing. So, we need an imaginary strategem by which to read the *Science of Logic* and, hopefully, by which to recognize Hegel’s merit in present philosophy. For we know today that Pierre Macherey’s question, Hegel or Spinoza, is no longer a question. They are at once the same and different: two systematic visions of total immanence founded not on a transcendental subject or categories of mind, but on reason. Idealism, Totality, Negativity: from the perspective of immanence, Hegel is innocent of these our contemporary perspective’s three great sins. The strategy Jameson proposed is to consider the *Logic*, the book, as a language experiment with narrative as its common form. Narrative’s sense of happening subsumes the beginning and end under a unified idea. It gives an order to an external temporality of indifferent moments. In the autopoiesis of categories, we witness a narrative of something we might want to call Logos.
