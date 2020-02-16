@@ -14,11 +14,21 @@ The simplest animals are merely an intestinal canal.
 
 ## Fecal Froths
 
-{{< figureCupper img="fecal-froths-front.jpg" command="Resize" options="600x" >}}
+{{< figureCupper
+  img="fecal-froths-front.jpg"
+  caption="Eight fecal froths monitored in the David Lab"
+  command="Resize" 
+  options="600x" 
+>}}
 
 In the well-lit, narrow corridors of the {{< link uri="http://el.ladlab.org:8080/" >}}David Lab{{< /link >}} at Duke University, eight translucent cannisters bubble their brown slurries. The smell is faint but familiar. Digital sensors monitor the microbial stews, while tubes carrying metabolites and inert gases maintain their operational closure. These are fecal froths, and they are what historian of science Hans-Jörg Rheinberger calls epistemic things: the element of the experimental system under investigation. They have become a crucial method, principal investigator Lawrence David writes, “for isolating and culturing human gut microbiomes.” As Georges Canguilhem points out, the biological object of study resists its transformation into an artifact native to the laboratory. Just so, David explains that his lab is working with “artificial gut models,” which are isolated from “host processes such as immune response or circadian rhythms.” The fecal froth represents a domestication of microbes alternative to that of the enteric ecologies that are our guts.
 
-{{< figureCupper img="fecal-froths-side.jpg" caption="Eight fecal froths monitored in the David Lab" command="Resize" options="600x" >}}
+{{< figureCupper
+  img="fecal-froths-side.jpg" 
+  caption="Eight fecal froths monitored in the David Lab" 
+  command="Resize" 
+  options="600x" 
+>}}
 	
 So, how does this work? By taking a stool sample from a human subject, the microbiota in that sample may then be cultured and monitored as the investigators adjust variables. We were told by our doctoral-student guide that it matters how the sample is taken (Is it from wiping? Is it from the exterior or the interior of the stool?) and how the sample is prepared (Is it blended or stirred?). Above all, this in vitro method intends to resolve two significant challenges to studying the human gut microbiome. One is accessing it in the first place. Another is the glut of data that comes with the genomic approach of sequencing the DNA of a stool sample. Instead of identifying individual taxonomies of host microbiota, an artificial gut model treats the microbiome as a black-box so as to ascertain its function as a processor of metabolites.
 

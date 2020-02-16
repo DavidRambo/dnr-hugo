@@ -14,11 +14,9 @@ How has the recent blooming of microbiome science sparked our imaginations? The 
 ## I. A Multitude of Metaphors in Ed Yong’s *I Contain Multitudes*
 I will focus on Ed Yong’s 2016 popular scientific account of microbiome science, *I Contain Multitudes: The Microbes Within Us and a Grander View of Life*. Yong is a science journalist who writes regularly for The Atlantic and posted videos on YouTube for a short while. To help synthesize an extensive set of scientific texts and interviews throughout the book, Ed Yong also develops numerous metaphorical representations of that material. Each chapter deploys a dominant metaphor to relate the details of microbiome research and their significance for understanding the human’s place in a world constituted by microbes. These linguistic techniques help to overcome the tension between the microbiome’s “inevitable presence” and “invisible” scale. Yong “want[s] to show [us] what the animal kingdom really looks like.” Without understanding microbiota and the symbiotic relations in which they participate, “we are looking at our lives through a key hole,” writes Yong. “This book will open the door fully.”
 
-{{< figureCupper
-img="yong-cover.png"
+{{< figure
+src="yong-cover.png"
 caption="Ed Yong's *I Contain Multitude's* (HarperCollins 2016)"
-command="Resize"
-options="500x"
 >}}
 
 These quotations are from the book’s first chapter, which is worth addressing at length for how it frames metaphors as making Yong’s presentation of microbiome science possible. As you surely noticed, vision frequently stands in for knowledge and awareness. As Yong concludes the first chapter: “This is the living world as it actually is, and although it is still invisible to my eyes, I can finally see it.” Here, Yong fills out the ocular paradigm with the phrase, “the living world as it actually is.” To see the unseeable: this is to approach (a more) complete reality.
