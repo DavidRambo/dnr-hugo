@@ -41,7 +41,7 @@ I could spend hours going through *I Contain Multitudes* to analyze its many met
 This is what medicine looks like when you understand that microbes are not the enemies of animals, but the foundations upon which our kingdom is built. Say goodbye to dated and dangerous war metaphors, in which we are soldiers hell-bent on eradicating germs at whatever cost. Say hello to a gentler and more nuanced gardening metaphor. Yes, we still have to pull out the weeds, but we also seed and feed the species that bind the soil, freshen the air, and please the eye.
 {{< /blockquote >}}
 
-{{< expandable label="Speaking of military metaphors..." level="4" >}}
+{{< expandable label="Speaking of military metaphors..." level="5" >}}
 I am reminded of Emily Martin's work on how research into the immmune system imported the rhetoric of guarding the nation's borders from illegal immigrants and trespassers. This self-other dichotomy has, until recently, been the guiding concept for understanding the immune system—especially in colloquial language. Immunology, Martin contends, thererby naturalized the perpetual violence along the border.
 {{< /expandable >}}
 
@@ -56,13 +56,6 @@ This language of experience as an expendable material reflects the progression m
 To encapsulate the breadth and speed of this fluctuating diversity, as well as to suggest what it means—and could mean in the future—for us humans, Yong offers a science fiction: “imagine a world where friends and colleagues can swap genes at will.” Here his metaphors get the better of him: the dynamic scheme of interrelation has been replaced by a liberal economic marketplace for the free exchange of genetic tools and microbial prostheses. Problematically, this implies an overly static macroscopic individuality that serves as a stable basis or core from which to engage in microbial experimentation. On the whole, though, Yong respects the ecological complexity argued for by microbiome scientists. His rhetorical strategy of metaphorically equating the micro with the macro brings out a productive tension between anthropomorphizing microbes and turning us into microbes. Anthropomorphism might be a good thing for undoing anthropocentrism—but only when paired with its inverse. Let’s pursue Yong’s science-fictional turn with a sci-fi novel that frames humans in intimate connection with, and even as, microbes.
 
 ## II. Invisible Mess in Sterling’s *Schismatrix*
-
-{{< figureCupper
-img="schismatrix-plus.jpg"
-caption="Bruce Sterling, *Schismatrix Plus* (Ace Books 1996)"
-command="Resize"
-options="400x"
->}}
 
 *Schismatrix*, Bruce Sterling’s 1985 sort-of-cyberpunk space opera, is a strange book: part cosmic epic starring humanist romantic Abelard Lindsay, part speculative chronicle in which the characters are ideologies and galactic corporate-states. Sometimes it leaps from scene to scene by the decade, from putting on a Shakespeare play to earn money on a corporate artificial world in lunar orbit to a woman whose flesh becomes a building. Most humans left Earth after a series of environmental catastrophes and developed into two dominant factions: the Shapers and the Mechanists. Mechanists are the human-machine hybrids we typically think of as cyborgs or posthumans, and what Shapers pejoratively refer to as “wireheads.” Shapers, by contrast, wield “psychotech” to train the flesh at an extreme level of detail and control (66). This is the split whence a multiplicity of clades differentiate in order to adopt, adapt to, and create as many ecological niches as there are “multiple humanities.” (A clade refers to a group of animals with a common ancestor. Sterling often uses it in the novel, and of course Yong would likely content that we all belong to a microbial clade.)
 	
