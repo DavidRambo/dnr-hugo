@@ -26,8 +26,6 @@
   {{ $styles := $templateStyles | resources.ExecuteAsTemplate "css/styles.css" . }}
   <link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}">
 
-  <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-
   <style id="inverter" media="none">
     .intro-and-nav, .main-and-footer { filter: invert(100%) }
     * { background-color: inherit }
