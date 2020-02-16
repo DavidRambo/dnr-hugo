@@ -40,7 +40,9 @@
       {{ partial "toc" . }}
     {{ end }}
 
-    {{ .Content }}
+    <div class="post-content">
+      {{ .Content }}
+    </div>
   </main>
   {{ partial "disqus.html" . }}
 {{ end }}
