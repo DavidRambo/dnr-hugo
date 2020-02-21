@@ -18,8 +18,6 @@ I think this may be a mistake. The information {{< link uri="https://www8.hp.com
     src="HP-gaming-store.png"
     alt="HP OMEN store page"
     caption="HP Gaming PCs Banner"
-    link="HP-gaming-store.png"
-    target="_blank"
 >}}
 
 The store greets the potential customer with a compelling juxtaposition of comforting white space and a banner that pops. Since I am interested solely in how OMEN presents itself, I will focus on the banner.
@@ -30,16 +28,18 @@ Let's begin with the color palette. On the leftmost third, the banner's basic co
 ### Elements
 Next, let's take a closer look at the elements.
 
-The 65" marker at the top right of the monitor is an odd detail, probably missed when composing the image. Next to the Desktop tower and laptop, the screen clearly 
+The assembled products provide a representative sample of the OMEN brand. Although I suspect that desktops and laptops are the main products, the centerpiece is rightly a humongous monitor. Its immersiveness comes through in its containing a full person. That the person on display is in turn wearing a VR headset does not interfere with the presentation. Rather, it's saying to the store visitor that HP's OMEN products will power a VR-level experience regardless of whether they actually have a VR setup. This is high praise because a person wearing a VR headset looks dopey and absurd.
 
-Depending on the viewer's tastes, the horizontal streak of yellow encircling the top of the laptop (which clearly shows Windows 10 as its OS) may work toward the scene's dynamism, or it could clash with the amorphous softness of the smoke. The only other yellowish element is the table, which serves as a physical and aesthetic basis for the OMEN products on dispaly. Unlike the smoke's extension of the screen's colors beyond the monitor's frame
+The 65" marker at the top right of the monitor is an odd detail, probably missed when composing the image. Next to the Desktop tower and laptop, the screen clearly has impressive dimensions. If possible, it should be removed so as to preserve the fantasy of a computer that transports the user into cyberspace.
+
+Depending on the viewer's tastes, the horizontal streak of yellow encircling the top of the laptop (which clearly shows Windows 10 as its OS) may work toward the scene's dynamism, or it could clash with the amorphous softness of the smoke. It seems to be of a piece with the dual yellow bands curving around the edge of the table. The viewer would be forgiven for mistaking those yellow lines *as* the table. After staring at the image for quite a while, I finally recognized the implied continuity between the sets of yellow streaks.
 
 ### Text
 Fortunately for the banner, its weakest aspect is also the most easily overlooked: its text. Let's take it one line at a time.
 
 ![Power & Performance](power-performance.png)
 
-If this is all the potential customer reads, which is likely, then they know the essential thing, that they're in the right place for gaming hardware. Could it be improved upon? While "Power & Performance" sounds good---alliterative word pairs always capture my attention---it is redundant. Performance of a PC derives from computing power relative to the application running. Granted, a graphically gorgeous game can perform well on low-powered hardware thanks to optimization, but that sort of consideration is too nuanced for the purpose at hand. With that in mind, however, the redundancy should not be seen as a failure but an opportunity to come up with a more descriptive, encompassing alternative set of properties. For what it's trying to accomplish, you could do a lot worse than "Power" and "Performance" on the top line.
+If this is all the potential customer reads, which is likely, then they know the essential thing, that they're in the right place for gaming hardware. Could it be improved upon? While "Power & Performance" sounds good---alliterative word pairs always capture my attention---it is redundant. Performance of a PC derives from computing power relative to the application running. Granted, a graphically gorgeous game can perform well on low-powered hardware thanks to optimization, but that sort of consideration is too nuanced for the purpose at hand. For what it's trying to accomplish, you could do a lot worse than "Power" and "Performance" on the top line. However, there is an opportunity to come up with a more descriptive, encompassing alternative set of properties.
 
 ![with HP Gaming PCs](with-HP-gaming.png)
 
@@ -49,29 +49,63 @@ A nicely diminished size in typeface says what it needs to say without overwhelm
 
 As with the heading, line number one of the body text pushes the main aspect: a PC so performant it leaves an impression on your body. The OMEN user's jaw will drop; they will be stunned. Anyone who has booted up a new rig running a benchmark game knows the feeling. 
 
-Beyond the first line, the sentence runs into a number of problems haivng to do with word order and typography. We can get the latter out of the way quickly. 
+Beyond the first line, the sentence runs into a number of problems haivng to do with diction and typography. 
 
-#### Typographical Errors
-The list ("designing spreadsheets, editing video and crushing your enemies") lacks an oxford comma. This is fine in and of itself---the AP Style Guide omits them---but the OMEN Homepage, as we'll see in a moment, uses them. (Also, I am partial toward the oxford comma because it prevents amphibolous mergers of listed items.) 
-
-The em-dash in "...one goal in mind---to give you game-changing performance" ought to be a colon. An em-dash signals either an aside that is too seemless to be placed within parentheses or a definitive break with what came before it in the sentence. For examples of both an em-dash aside and a parenthetical aside, see the preceding paragraph---and here's an example of using an em-dash to break with a sentence! By contrast, a colon can be equated with an equal sign. It indicates that what is to follow will be what precedes it. In this case, the colon would signal that the "one goal in mind" is "to give you game-changing performance."
-
-#### Wonky Word Order
-Not everyone cares for that level of syntactical specificity, but I suspect that this close reading will carry more weight. What, according to the sentence, does an HP Gaming PC's jaw-dropping speeds and stunning graphics enable?
+#### Wonky Word Choice
+What, according to the sentence, does an HP Gaming PC's jaw-dropping speeds and stunning graphics enable?
 
 > With jaw-dropping speeds and stunning graphics, switch between...
 
-To switch between applications! Huh. That's pretty underwhelming. Also, for a product that features Intel CPUs, it's counterintuitive. AMD's Ryzen line has been dominating the processor field in terms of multitasking performance.
+To switch between applications! Huh. That's pretty underwhelming. Also, for a product that features Intel CPUs, it's counterintuitive. AMD's Ryzen line has been dominating the processor field in terms of multitasking performance. 
 
-Okay, so let's look past the central verb of choice as an unfortunate side-effect. After all, the main thrust of the sentence comes through in the applications listed. That's where expensive hardware will really shine.
+Let's look past the central verb of choice as an unfortunate side-effect of writing a sentence that lists appealing applications. After all, that's where expensive hardware will really shine.
 
 > ...switch between designing spreadsheets, editing video and crusing your enemies...
 
+Hell yeah! I cannot wait to overclock my new GPU and scroll through this spreadsheet at 144hz.
 
+Either HP got its enterprise and gaming wires crossed or it is very much invested in the subset of gamers who do, indeed, utilize spreadsheets to optimize their loot grinding and then edit video guides for YouTube. Both seem like odd choices to me...
+
+If the "one goal" of this PC is "game-changing performance," then games should be given pride of place over spreadsheets and video editing.
+
+And of minor note, "redesigned" should probably be "designed."
+
+#### Typographical Errors
+The list ("designing spreadsheets, editing video and crushing your enemies") lacks an oxford comma. This is fine in and of itself---the AP Style Guide omits them---but the OMEN Homepage, as we'll see in a moment, uses them. (Also, I am partial toward the oxford comma because it prevents amphibolous mergers of listed items.)
+
+Next up, and more importantly, the em-dash in 
+
+>...with one goal in mind---to give you game-changing performance.
+
+ought to be a colon. An em-dash signals either an aside that is too seamless to be placed within parentheses or a definitive break with what came before it in the sentence. For examples of both an em-dash aside and a parenthetical aside, see the preceding paragraph---and here's an example of using an em-dash to break with a sentence!
+
+By contrast, a colon can be thought of as an equal sign. It indicates that what follows will be what precedes it. In this case, the colon would signal that the "one goal in mind" is "to give you game-changing performance."
+
+### Improve It
+
+Here's my first-pass revision:
+
+> Experience your games like the developers intended: on a PC designed for jaw-dropping speeds and stunning graphics.
+
+It's a straightforward exhortation rather than a misguided list. The focus is on the personal. "Experience your games" covers a much wider gamut of play than does the phrase "crushing your enemies." The potential consumer is invited to play their games, whatever they may be, 
 
 ## The OMEN Homepage
 
-Of the three webpages analyzed, this is the strongest. The header from the rest of HP's website remains at the top, but it does not stick when scrolling down. This allows the OMEN content to speak for itself as a fully fledged subdomain of the HP brand.
+{{< figure
+  src="omen-gaming-family.png"
+  alt="OMEN Gaming Family"
+  caption="The OMEN Banner"
+>}}
+
+Of the three webpages analyzed, {{< link uri="https://www8.hp.com/us/en/gaming/omen.html" >}}this{{< /link >}} is the strongest. The header from the rest of HP's website remains at the top, but it does not stick when scrolling down. This allows the OMEN content to speak for itself as a fully fledged subdomain of the HP brand.
+
+The sunburst color gradient is a great choice. It is vibrant and, like the store banner, helps to distinguish OMEN from HP's appropriately staid corporate profile. I also enjoy how refreshing it is compared to the faux-edgy red-on-black "hardcore gamer" aesthetic. The white vector graphics behind the laptop further contribute to the fun of the banner.
+
+Displaying a laptop is another strong choice. A desktop tower could come off as an imposing black box; whereas a laptop offers a more dynamic presentation. Its subtle angle away from flat gives it the appearance of flight, of a flexibility that crosses over from a laptop's mobility to a player's in-game adaptability. Also, showing the laptop in profile from behind directs the viewer's focus to the hardware itself rather than whatever happens to be on screen. And there is something on screen---we can be certain of this thanks to the subtle blue glow emanating from the unseen display. This avoids the corny fake-game graphics seen in marketing for gaming monitors. Instead, we are presented with the hardware's potential to run anything.
+
+### Family Members
+
+Scrolling down, the four sections of OMEN products are crisply displayed:
 
 
 
