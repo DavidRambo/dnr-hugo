@@ -14,9 +14,11 @@ How has the recent blooming of microbiome science sparked our imaginations? The 
 ## I. A Multitude of Metaphors in Ed Yong’s *I Contain Multitudes*
 I will focus on Ed Yong’s 2016 popular scientific account of microbiome science, *I Contain Multitudes: The Microbes Within Us and a Grander View of Life*. Yong is a science journalist who writes regularly for The Atlantic and posted videos on YouTube for a short while. To help synthesize an extensive set of scientific texts and interviews throughout the book, Ed Yong also develops numerous metaphorical representations of that material. Each chapter deploys a dominant metaphor to relate the details of microbiome research and their significance for understanding the human’s place in a world constituted by microbes. These linguistic techniques help to overcome the tension between the microbiome’s “inevitable presence” and “invisible” scale. Yong “want[s] to show [us] what the animal kingdom really looks like.” Without understanding microbiota and the symbiotic relations in which they participate, “we are looking at our lives through a key hole,” writes Yong. “This book will open the door fully.”
 
-{{< figure
-src="yong-cover.png"
-caption="Ed Yong's *I Contain Multitude's* (HarperCollins 2016)"
+{{< figureCupper
+img="yong-cover.png"
+caption="Ed Yong's I Contain Multitudes (HarperCollins 2016)"
+command="Resize"
+options="500x"
 >}}
 
 These quotations are from the book’s first chapter, which is worth addressing at length for how it frames metaphors as making Yong’s presentation of microbiome science possible. As you surely noticed, vision frequently stands in for knowledge and awareness. As Yong concludes the first chapter: “This is the living world as it actually is, and although it is still invisible to my eyes, I can finally see it.” Here, Yong fills out the ocular paradigm with the phrase, “the living world as it actually is.” To see the unseeable: this is to approach (a more) complete reality.
@@ -27,7 +29,7 @@ Even before the first paragraph, the first chapter initiates the book’s metaph
 
 At the book’s outset, Yong therefore establishes a continuity between more familiar organisms and microbiota not merely in terms of biological processes but particularly in the way they are discussed. Just as macroorganisms are a natural extension of microorganisms, so too does the way we talk about the microbiological extend from how we already talk about the macrobiological. Indeed, after mentioning DNA and ATP, Yong invokes language as a medium that renders disparate biological scales commensurable:
 
-{{< blockquote author="Ed Yong" >}}
+{{< blockquote caption="Ed Yong" >}}
 Why can organisms as disparate as humans and bacteria live together and cooperate? Because we share a common ancestor. We store information in DNA using the same coding scheme. We use a molecule called ATP as a currency of energy. The same is true across all life. Picture a BLT sandwich: every component, from the lettuce and tomatoes to the pig that produced the bacon, to the yeast that baked the bread, to the microbes that surely sit on its surface, speaks the same molecular language.
 {{< /blockquote >}}
 
@@ -35,7 +37,7 @@ In this passage, language both is a metaphor and encapsulates a slew of other me
 
 I could spend hours going through *I Contain Multitudes* to analyze its many metaphorical depictions of microbiota. Yong, I think, is very good at sustaining a particular analogy throughout a single chapter’s topic all the while developing relatively short-term metaphors within that frame. 
 
-{{< blockquote author="Ed Yong" >}}
+{{< blockquote caption="Ed Yong" >}}
 This is what medicine looks like when you understand that microbes are not the enemies of animals, but the foundations upon which our kingdom is built. Say goodbye to dated and dangerous war metaphors, in which we are soldiers hell-bent on eradicating germs at whatever cost. Say hello to a gentler and more nuanced gardening metaphor. Yes, we still have to pull out the weeds, but we also seed and feed the species that bind the soil, freshen the air, and please the eye.
 {{< /blockquote >}}
 
@@ -59,17 +61,16 @@ To encapsulate the breadth and speed of this fluctuating diversity, as well as t
 	
 Ordinarily my reading of *Schismatrix* hinges upon the lateness with which the term “posthuman” appears. 
 
-{{< blockquote author="Sterling 109" >}}
-People began to speak, for the first time, of the Schismatrix—of a posthuman solar system, diverse yet unified, where tolerance would rule and every faction would have a share.
-
-The aliens—they called themselves the Investors—seemed unlimited in power. They were ancient, so old that they remembered no tradition earlier than starflight. Their mighty starships ranged a vast economic realm, buying and selling among nineteen other intelligent races.
+{{< blockquote caption="Sterling 109" >}}
+People began to speak, for the first time, of the Schismatrix—of a posthuman solar system, diverse yet unified, where tolerance would rule and every faction would have a share.  
+    The aliens—they called themselves the Investors—seemed unlimited in power. They were ancient, so old that they remembered no tradition earlier than starflight. Their mighty starships ranged a vast economic realm, buying and selling among nineteen other intelligent races.
 {{< /blockquote >}}
 
 It denotes the subsumption of post-Earth human societies into the trade network of a mercantilist species of aliens who call themselves the Investors. Returning to the novel now, however, I am inclined to focus both on the prevalence of microbes as well as on the extent to which the narrative’s human-scale and interplanetary action analogizes the fluctuating diversity of microbiota. Sterling’s diction shares some of Yong’s own linguistic strategy, as critics like Scott Bukatman have noted how it “conflat[es] a number of irreconcilable terms such as life/nonlife, biology/technology, human/machine” (Bukatman, Terminal Identity 277).
 
 But first, from where does Sterling’s multiscalar, ecological sensibility derive? In his introduction to the collection *Schismatrix Plus*, Sterling lists three books with scientist authors. For all three sources, he seeks not the accurate translation of scientific conepts but language’s ability to invent new feelings, images, and ideas. Here’s what he says of Ilya Prigogine:
 
-{{< blockquote author="Sterling vii" >}}
+{{< blockquote caption="Sterling vii" >}}
 This book boasted some of the most awesomely beautiful scientific jargon that I had ever witnessed in print. The writing was of such dense, otherworldly majesty that it resembled Scripture. […] So naturally I used his terminology as the basis for the Shaper/Mechanist mysticism. It worked like a charm.
 {{< /blockquote >}}
 
@@ -79,19 +80,17 @@ On one hand, Schismatrix glimpses some future scenarios toward which Yong gestur
 
 Sterling includes some of the latter, to be sure, like the “rejuvination virus,” which eats away at old skin during two decades and leaves behind a fresh epidermis. But for the most part, microbes are simply there, constitutive of the environment, contributing to the unique makeup of worlds:  
 
-{{< blockquote author="Sterling 12" >}}
-The smell was vile. Each of the ten circumlunar worlds of the Concatenation had its own native smell. [...] His nose began to run.
-
-Every Concatenate world faced biological problems as the habitat aged [...]
-
-Fertile soil required a minimum of ten million bacterial cells per cubic centimeter. This invisible swarm formed the basis of everything fruitful. Humanity had carried it into space.
+{{< blockquote caption="Sterling 12" >}}
+The smell was vile. Each of the ten circumlunar worlds of the Concatenation had its own native smell. [...] His nose began to run.  
+    Every Concatenate world faced biological problems as the habitat aged [...]  
+    Fertile soil required a minimum of ten million bacterial cells per cubic centimeter. This invisible swarm formed the basis of everything fruitful. Humanity had carried it into space.
 {{< /blockquote >}}
 
 When traveling to a new planet, one’s microbiome must adapt to the novel microbial flora both on the spaceship and at the destination. A nerdy drinking game could be devised for the audiobook revolving around the frequency of words related to microbially induced effluvia. Characters are constantly coughing, sneezing, and observing smaller organisms consuming their bodily detritus. There’s some overlap with Yong’s emphasis on the invisible necessity of microbes, but Sterling also emphasizes the messiness of microbes—something that is more at home in Steve Mould’s microbe primer for kids (there’s a lot of fart humor).
 
 {{< figureCupper
 img="mould-cover.jpg"
-caption="Steve Mould"
+caption="Steve Mould, The Bacteria Book (DK Children 2018)"
 command="Resize"
 options="300x"
 >}}
