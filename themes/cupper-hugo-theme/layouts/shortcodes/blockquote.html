@@ -3,9 +3,9 @@
 <blockquote class="blockquote">
   <p>
     {{ $quote | markdownify }}
-    {{ with (.Get "author") }}
+    {{ with (.Get "caption") | markdownify }}
       <br>
-      <span class="author">&mdash; {{ . }}</span>
+      <span class="caption">&mdash; {{ . }}</span>
     {{ end }}
   </p>
 </blockquote>

@@ -214,10 +214,12 @@ dd li + li {
 
 /* Blockquotes */
 blockquote {
-  border-left: 0.5rem solid;
+  border-left: 0.25rem solid #2b5f77;
   padding-left: 0.75rem;
+  margin-left: 20px;
+  font-size: 1rem;
 }
-blockquote .author {
+blockquote .caption {
   font-size: 0.85rem;
 }
 

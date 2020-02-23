@@ -29,7 +29,7 @@ Even before the first paragraph, the first chapter initiates the book’s metaph
 
 At the book’s outset, Yong therefore establishes a continuity between more familiar organisms and microbiota not merely in terms of biological processes but particularly in the way they are discussed. Just as macroorganisms are a natural extension of microorganisms, so too does the way we talk about the microbiological extend from how we already talk about the macrobiological. Indeed, after mentioning DNA and ATP, Yong invokes language as a medium that renders disparate biological scales commensurable:
 
-{{< blockquote caption="Ed Yong" >}}
+{{< blockquote caption="Ed Yong, *I Contain Multitudes*" >}}
 Why can organisms as disparate as humans and bacteria live together and cooperate? Because we share a common ancestor. We store information in DNA using the same coding scheme. We use a molecule called ATP as a currency of energy. The same is true across all life. Picture a BLT sandwich: every component, from the lettuce and tomatoes to the pig that produced the bacon, to the yeast that baked the bread, to the microbes that surely sit on its surface, speaks the same molecular language.
 {{< /blockquote >}}
 
@@ -63,7 +63,7 @@ Ordinarily my reading of *Schismatrix* hinges upon the lateness with which the t
 
 {{< blockquote caption="Sterling 109" >}}
 People began to speak, for the first time, of the Schismatrix—of a posthuman solar system, diverse yet unified, where tolerance would rule and every faction would have a share.  
-    The aliens—they called themselves the Investors—seemed unlimited in power. They were ancient, so old that they remembered no tradition earlier than starflight. Their mighty starships ranged a vast economic realm, buying and selling among nineteen other intelligent races.
+        The aliens—they called themselves the Investors—seemed unlimited in power. They were ancient, so old that they remembered no tradition earlier than starflight. Their mighty starships ranged a vast economic realm, buying and selling among nineteen other intelligent races.
 {{< /blockquote >}}
 
 It denotes the subsumption of post-Earth human societies into the trade network of a mercantilist species of aliens who call themselves the Investors. Returning to the novel now, however, I am inclined to focus both on the prevalence of microbes as well as on the extent to which the narrative’s human-scale and interplanetary action analogizes the fluctuating diversity of microbiota. Sterling’s diction shares some of Yong’s own linguistic strategy, as critics like Scott Bukatman have noted how it “conflat[es] a number of irreconcilable terms such as life/nonlife, biology/technology, human/machine” (Bukatman, Terminal Identity 277).
@@ -82,8 +82,8 @@ Sterling includes some of the latter, to be sure, like the “rejuvination virus
 
 {{< blockquote caption="Sterling 12" >}}
 The smell was vile. Each of the ten circumlunar worlds of the Concatenation had its own native smell. [...] His nose began to run.  
-    Every Concatenate world faced biological problems as the habitat aged [...]  
-    Fertile soil required a minimum of ten million bacterial cells per cubic centimeter. This invisible swarm formed the basis of everything fruitful. Humanity had carried it into space.
+        Every Concatenate world faced biological problems as the habitat aged [...]  
+        Fertile soil required a minimum of ten million bacterial cells per cubic centimeter. This invisible swarm formed the basis of everything fruitful. Humanity had carried it into space.
 {{< /blockquote >}}
 
 When traveling to a new planet, one’s microbiome must adapt to the novel microbial flora both on the spaceship and at the destination. A nerdy drinking game could be devised for the audiobook revolving around the frequency of words related to microbially induced effluvia. Characters are constantly coughing, sneezing, and observing smaller organisms consuming their bodily detritus. There’s some overlap with Yong’s emphasis on the invisible necessity of microbes, but Sterling also emphasizes the messiness of microbes—something that is more at home in Steve Mould’s microbe primer for kids (there’s a lot of fart humor).
@@ -97,20 +97,17 @@ options="300x"
 	
 And this microbial shaping of worlds shapes the protagonist’s ethics: “Worlds were frail places,” Lindsay reflects. “The safety of worlds was the universal basis of morality” (13). Sterling’s microbial realism, if you will, does much more than signal a scientifically critical perspective on a weird, disgusting reality—i.e. the respective elements in Darko Suvin’s generic definition of science fiction as cognitive estrangement. It proposes that we adopt an ethics of care toward a constantly ramifying invisible world that may well always already be in the process of alienating our present reality, of alienating us. The microbially churning worlds in *Schismatrix* lay the fictional groundwork for a story in which characters continually recreate themselves. Yong says that the flux in our microbiomes enables the stability of ourselves. Sterling, by contrast, throws that macroscopic stability into flux, partially due to the microscopic generation of the world. The just quoted passage about bacteria in the soil continues:
 
-{{< blockquote author="Sterling 12" >}}
-Without bacteria, the soil was a lifeless heap of imported lunar dust. With them, it was a constant mutational hazard.
-
-The Republic constantly struggled to control its Sours. In the Zaibatsu [definition: ‘a powerful financial and industrial conglomerate of Japan’ (Mir-Web)], the souring had become epidemic. Mutant fungi had spread like oil slicks, forming a mycelial crust beneath the surface of the soil. This gummy crust repelled water, choking trees and grass. Dead vegetation was attacked by rot. The soil grew dry, the air grew damp, and mildew blossomed on dying fields and orchards, gray pinheads swarming into blotches of corruption, furred like lichen…
-
-When matter reached this stage, only desperate efforts could restore the world.
+{{< blockquote caption="Sterling 12" >}}
+Without bacteria, the soil was a lifeless heap of imported lunar dust. With them, it was a constant mutational hazard.  
+        The Republic constantly struggled to control its Sours. In the Zaibatsu [definition: ‘a powerful financial and industrial conglomerate of Japan’ (Mir-Web)], the souring had become epidemic. Mutant fungi had spread like oil slicks, forming a mycelial crust beneath the surface of the soil. This gummy crust repelled water, choking trees and grass. Dead vegetation was attacked by rot. The soil grew dry, the air grew damp, and mildew blossomed on dying fields and orchards, gray pinheads swarming into blotches of corruption, furred like lichen…  
+        When matter reached this stage, only desperate efforts could restore the world.
 {{< /blockquote >}}
 
 We are told about refugees forming their own nomadic societies when forced to relocate when such worlds are sterilized and reseeded. Later, a small conclave on an asteroid becomes infected by such travels: 
 
-{{< blockquote author="Sterling 103" >}}
-The worst was sepsis. The organisms brought from the Zaibatsu wreaked havoc on the delicate biosystems of ESAIRS XII. […]
-
-The attenuated blossoms of the Shaper garden [engineered to live without bacteria] mildewed and crumbled at the touch of raw humanity. The vegetation took strange forms as it suffered and contorted, its stems corkscrewing in rot-dusted perversions of growth.
+{{< blockquote caption="Sterling 103" >}}
+The worst was sepsis. The organisms brought from the Zaibatsu wreaked havoc on the delicate biosystems of ESAIRS XII. […]  
+        The attenuated blossoms of the Shaper garden [engineered to live without bacteria] mildewed and crumbled at the touch of raw humanity. The vegetation took strange forms as it suffered and contorted, its stems corkscrewing in rot-dusted perversions of growth.
 {{< /blockquote >}}
 
 Here, “raw humanity” refers equally to the microbiome borne by human bodies as to the modification of plants to live without bacteria. The challenge *Schismatrix* presents from its perspective of ecological complexity is learning to care for the individual in abstraction from any one individual. For an actually existing individual is already an ossification of life’s creativity—even as much as it is a result of that creativity. In concrete terms, this means caring for the conditions of possibility for human individuality. To do so would demand a change in Yong’s rhetoric of what technology means—a change from anthropocentric prosthetic utility to a processual outlook on the invention of worlds.
