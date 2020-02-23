@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Resumé"
 date: 2020-02-14
 toc: false
 ---
