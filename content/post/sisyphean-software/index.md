@@ -3,7 +3,7 @@ title: "Sisyphean Software"
 date: 2017-11-10T13:14:28-05:00
 draft: false
 toc: false
-tag: ["game studies", "absurd", "Dark Souls", "Camus"]
+tags: ["game studies", "absurd", "Dark Souls", "Camus"]
 ---
 ![title slide](Slide1.png)
 

@@ -1,5 +1,7 @@
 ---
 title: "About"
+date: 2020-02-25
+draft: true
 ---
 <figure>
     <img src="avatar.jpg" alt="David Rambo portrait by L'Amour Foto" style="max-width:400px;display:block;margin-left:auto;margin-right:auto;">
