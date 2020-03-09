@@ -1,5 +1,5 @@
 ---
-title: "Critique of HP's OMEN Websites"
+title: "Critique of HP's OMEN Websites, Pt.1"
 date: 2020-02-17
 draft: true
 tags: ["HP", "design", "UX"]
