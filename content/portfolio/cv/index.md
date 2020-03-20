@@ -4,13 +4,11 @@ date: 2020-03-01
 ---
 ## Education
 
-#### PhD
-Graduate Program in Literature, Duke University, 2018
+**PhD**, Graduate Program in Literature, Duke University, 2018
 
-#### BA
-English, highest honors
-History, higher honors
-University of California, Davis, 2011
+**BA** in English (highest honors) and History (higher honors), University of California, Davis, 2011
+
+<hr>
 
 ## Publications
 
@@ -36,6 +34,8 @@ http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/.
 
 Response to Rebecca Norton, “Displacement Paths,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (August 2016): http://scalar.usc.edu/works/networkecologies/displacement-paths.
 
+<hr>
+
 ## Awards and Fellowships
 National Science Foundation (NSF) Conference Travel Grant, 33rd Annual Conference of the Society for Literature, Science, and the Arts (SLSA), Irvine, CA, November 7–10, 2019.
 
@@ -52,6 +52,8 @@ Summer Research Grant, Professor Robert S. Rogers Fellowship Fund for Summer Res
 Conference Travel Award, “Spinoza’s Strategy Guide to Video Game Completion,” Graduate School, Duke University, November 2015.
 
 Summer Research Grant, Graduate School, Duke University, 2014.
+
+<hr>
 
 ## Conference Presentations
 
@@ -78,6 +80,8 @@ Summer Research Grant, Graduate School, Duke University, 2014.
 “Limits to Abstraction: Financialization of the Medium of Thought,” 27th Annual Conference of the Society for Literature, Science, and the Arts, South Bend, IN, October 5, 2013.
 
 “The Error-Image,” Graduate Student Conference: The Future Remembered, The Self Dismembered, The Humanities Center, Johns Hopkins University, Baltimore, MD, February 23, 2013.
+
+<hr>
 
 ## Teaching
 
@@ -112,6 +116,8 @@ Invited Co-instructor, “Reading Whitehead’s Process and Reality” graduate 
 
 “Virality and the Monstrous in Danny Boyle’s 28 Days Later,” for “Social Networks: From Virus to Internet,” Instructor Mark Hansen, Program in Literature, Spring 2014.
 
+<hr>
+
 ## Service
 ### Professional
 Review Board Member, Angelaki: Journal of the Theoretical Humanities, December 2017 to present.
@@ -144,6 +150,8 @@ Writer, “Hegel’s Logic Today” Conference, Summary of Presentations, Duke U
 Coordinator, “The Ljubljana School” Conference with Mladen Dolar, Slavoj i ek, and Alenka Zupanč, Duke University Institute for Critical Theory, November 17–21, 2014.
 
 Respondent, “The Ecological Pharmacology of 21st Century Media,” Mark Hansen, Duke University, February 15, 2013.
+
+<hr>
 
 ## Research Collaboration
 Participant, S-1 Speculative Sensation Lab, Duke University, s-1lab.org, Fall 2012–Present.
