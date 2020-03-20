@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 Data Dashboards"
 date: 2020-03-20
-draft: true
+draft: false
 tags: ["coronavirus", "data tracking", "mediation"]
 ---
 I have been watching SARS-CoV-2 spread on a [dashboard](https://ncov2019.live/) created by a junior in high school named Avi Schiffman.
