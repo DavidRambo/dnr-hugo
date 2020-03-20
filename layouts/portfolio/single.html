@@ -1,6 +1,14 @@
 {{ define "main" }}
 <main id="main">
   <h1>{{ .Title }}</h1>
+  
+  {{ if ne .Params.toc false }}
+    {{ partial "toc" . }}
+  {{ end }}
+
+<div class="post-content">
   {{ .Content }}
+</div>
+
 </main>
 {{ end }}
