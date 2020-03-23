@@ -4,7 +4,7 @@ date: 2020-03-20
 draft: false
 tags: ["coronavirus", "data tracking", "mediation"]
 ---
-I have been watching SARS-CoV-2 spread on a [dashboard](https://ncov2019.live/) created by a junior in high school named Avi Schiffman.
+I have been watching SARS-CoV-2 spread on a {{< link uri="https://ncov2019.live/">}}dashboard{{< /link >}} created by a junior in high school named Avi Schiffman.
 
 It reminds me of first being on MySpace and then Facebook in high school or of being on AIM in 5th grade and middle school--always waiting for a new message that made me feel socially engaged. As cultural content and news shifted increasingly to the Web 2.0 platforms, that social engagement in turn transformed into various iterations on Facebook's aptly named *the feed*. 
 
@@ -16,7 +16,7 @@ And yet, there is an anticipation that the numbers will have gone up. When they 
 
 There are other dashboards. Johns Hopkins has a more intense {{< link uri="https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">}}website{{< /link >}}. A darker color palette than Schiffman's, particularly its red numbers for confirmed cases (whereas Schifmann uses green and reserves red for deaths), as well as a map and a graph charting cases taking off exponentially all contribute to a heavier, almost command-center-in-a-bunker feel. (It also reloads more slowly than Schiffman's ncov2019.live.)
 
-What they both have in common is a dominating the present tense. To be sure, the Johns Hopkins dashboard features a graph that charts the number of infections in mainland China, "Other Locations," and total recovered. And its map can be toggled between "Cumulative Confirmed Cases" and "Active Cases." But the main elements: "Total Confirmed," "Total Deaths," and "Total Recovered" are up-to-date. There is no slider to set it to a previous state. 
+What they both have in common is a dominating present tense. To be sure, the Johns Hopkins dashboard features a graph that charts the number of infections in mainland China, "Other Locations," and total recovered. And its map can be toggled between "Cumulative Confirmed Cases" and "Active Cases." But the main elements: "Total Confirmed," "Total Deaths," and "Total Recovered" are up-to-date. There is no slider to set it to a previous state. 
 
 If I have left a Covid-19 dashboard open in my browser for a while, then I get a glimpse of the recent past and an always jarring jump in the numbers. Instead of having detailed snapshots on screen, I have a vague memory of the total confirmed being at 161 thousand and of the U.S. at seven thousand and, before that, three thousand. I remember Italy standing out at 24 thousand, while now it says "41,035."
 
