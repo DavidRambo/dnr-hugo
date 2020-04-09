@@ -8,7 +8,7 @@ toc: false
 Trained to analyze how users and communities experience written, visual, and interactive media. Excellent writer, reviewer, and communicator in both individual and team settings. Experienced with pursuing multiple research projects simultaneously. Avid problem solver, eager collaborator, and DIY enthusiast.
 
 ## Work Experience
-* Researcher --- Jury-X, Chapel Hill, NC --- Nov. 2019 to Present
+* Researcher --- Jury-X, Chapel Hill, NC --- Nov. 2019 to Mar. 2020
   * Investigate and assess suitability of potential jurors for client attorneys in real time using online databases and social media.
   * Promoted to monitoring court transcripts and writing in-depth juror profiles.  
 
