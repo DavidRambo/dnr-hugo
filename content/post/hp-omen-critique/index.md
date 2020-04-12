@@ -130,11 +130,11 @@ This first image retains the dynamic presentation of a laptop, but opts to revea
 
 Again, I encourage you to view the website yourself, as the smaller screenshots shown here significantly minimize the disorienting experience.
 
-The foregrounding of squaers in the second banner image accentuates the confusion between interactive and non-interactive elements:
+The foregrounding of squares in the second banner image accentuates the confusion between interactive and non-interactive elements:
 
 ![New OMEN Banner, second image](OMEN-new-banner-2.png)
 
-The third image, of the sponsored streamrs, expresses a friendly representation of the diverse consumer base OMEN seeks to develop:
+The third image, of the sponsored streamers, expresses a friendly representation of the diverse consumer base OMEN seeks to develop:
 
 ![New OMEN Banner, third image](OMEN-new-banner-3.png)
 
@@ -144,7 +144,7 @@ My recommendation is to eliminate the follow-through link in the bottom-right-ha
 
 Initially, the elements roughly fade-in, which is particularly the case for the diagonal arrangement of squares. To be clear, I think the swapping between foreground and background in the sequence of images is well executed. My concern is that the roughness of the fade-in becomes a common refrain due to the site's excessive use of it. 
 
-It reminds me of Apple's product pages, which are seamless in this effect but also offer a quick escape toward a maore condensed and straightforward itemization of product specifications. One of the crucial differences is that Apple's product showcases tend to give the impression of scrolling in place: the image and textual elements change while the border remains static.
+It reminds me of Apple's product pages, which are seamless in this effect but also offer a quick escape toward a more condensed and straightforward itemization of product specifications. One of the crucial differences is that Apple's product showcases tend to give the impression of scrolling in place: the image and textual elements change while the border remains static.
 
 Likewise, when clicking on an option in the OMEN header, let's say "DESKTOP", I expect more information than a small image of the OMEN Obelisk and yet another button for more details:
 
@@ -154,7 +154,7 @@ As I scroll down, the page is blank white space for too long before populating w
 
 ![OMEN Desktop Choices](OMEN-desktop-2.png)
 
-The amount of work the user must perform—measured in attentional effort, clicks, and scrolling—in order to find out about OMEN exceeds what I would accept as a combination of information and stylistic presentation. The repetetion of "SHOP NOW" and "LEARN MORE" buttons is symptomatic of this excess. 
+The amount of work the user must perform—measured in attentional effort, clicks, and scrolling—in order to find out about OMEN exceeds what I would accept as a combination of information and stylistic presentation. The repetition of "SHOP NOW" and "LEARN MORE" buttons is symptomatic of this excess. 
 
 *It is bloated.*
 
@@ -204,7 +204,7 @@ Improvement can be easily arrived at, I think, by simplifying at all levels.
 
 #### This means consolidating websites. 
 
-While the redundancy of multiple entrypoints to buying OMEN products might seem like a way to ensure that consumers get to a point-of-sale, I argue that it increases the likelihood of confusion and frustration when trying to find out what it is they would purchase. 
+While the redundancy of multiple entry points to buying OMEN products might seem like a way to ensure that consumers get to a point-of-sale, I argue that it increases the likelihood of confusion and frustration when trying to find out what it is they would purchase. 
 
 #### This means streamlining the experience. 
 
