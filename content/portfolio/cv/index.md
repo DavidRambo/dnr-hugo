@@ -128,6 +128,8 @@ Organizer, “Microbe Futures 3-4: Duke's Speculative Sensation Lab, Parts 1 and
 
 Organizer and Chair, “Alternative Temporalities in Computer Gaming,” 31st Annual Conference of the Society for Literature, Science, and the Arts, Tempe, AZ, November 10, 2017.
 
+Intern, “Teaching and Learning in the Humanities,” National Humanities Center, Durham, NC, Summer 2017. Authored a lesson titled {{< link uri="https://education.nationalhumanitiescenter.org/courseware/lesson/33" >}} "Written Experimentations in Laboratories and Role-Playing Games."{{< /link >}}
+
 Organizer and Chair, “Video Games’ Extra-Ludic Echoes,” 29th Annual Conference of the Society for Literature, Science, and the Arts, Rice University, Houston, TX, November 15, 2015.
 
 ### Institutional
@@ -157,8 +159,6 @@ Respondent, “The Ecological Pharmacology of 21st Century Media,” Mark Hansen
 Participant, S-1 Speculative Sensation Lab, Duke University, s-1lab.org, Fall 2012–Present.
 
 Participant, BrainCultures, Humanities Unbound Lab, Duke University, Fall 2019–Spring 2020.
-
-Intern, “Teaching and Learning in the Humanities,” National Humanities Center, Durham, NC, Summer 2017.
 
 Lead Designer, Networked Synesthesia, S-1 Speculative Sensation Lab, Duke University, s-1lab.org/project/networked-synesthesia/, Fall 2013.
 

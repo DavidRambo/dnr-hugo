@@ -44,7 +44,7 @@ fictional, historical, and theoretical texts.
 <ul>
   <li><a href="NHC_Lesson.pdf" title="Written Experimentations in Laboratories and Role-Playing Games" target="_blank">Written Experimentations in Laboratories and Role-Playing Games</a>
     <br>
-    During the summer of 2017 at the National Humanities Center in North Carolina, I collaborated with other instructors and mentors to compose lessons informed by our doctoral research. My lesson, “Written Experimentations in Laboratories and Role-Playing Games,” translates the specialized discourses of science and technology studies and media theory into undergraduate course material.</li>
+    During the summer of 2017 at the <a href="https://education.nationalhumanitiescenter.org/" target="_blank" alt="NHC Education Resources">National Humanities Center</a> in North Carolina, I collaborated with other instructors and mentors to compose lessons informed by our doctoral research. My lesson, “Written Experimentations in Laboratories and Role-Playing Games,” translates the specialized discourses of science and technology studies and media theory into undergraduate course material.</li>
   <li><a href="Paper1-Galactic-Capital.pdf" alt="Paper Prompt for Technics and Galactic Capital" target="_blank">First Paper Assignment for Technics and Galactic Capital</a></li>
   <li><a href="Paper2-Cyberspace.pdf" alt="Paper Assignment for Cyberspace" target="_blank">Second Paper Assignment for Cyberspace on Page and Screen</a></li>
 </ul>
