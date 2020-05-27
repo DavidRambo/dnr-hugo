@@ -1,5 +1,5 @@
 ---
-title: "Resumé"
+title: "Resume"
 date: 2020-02-14
 toc: false
 ---
@@ -12,7 +12,7 @@ Trained to analyze how users and communities experience written, visual, and int
   * Investigate and assess suitability of potential jurors for client attorneys in real time using online databases and social media.
   * Promoted to monitoring court transcripts and writing in-depth juror profiles.  
 
-* Frontend Web Developer --- Duke University --- Fall 2019–Spring 2020
+* Frontend Web Developer --- Duke University --- Fall 2019 to March 2020
   * Devloped a website for S-1 Speculative Sensation Lab using Hugo static site generator and Netlify: {{< link uri="https://s-1lab.org" >}}s-1lab.org{{< /link >}}.
   * Created and maintained a website for BrainCultures humanities lab using WordPress: {{< link uri="https://sites.duke.edu/braincultures" >}}sites.duke.edu/BrainCultures{{< /link >}}.
 
@@ -74,7 +74,7 @@ Trained to analyze how users and communities experience written, visual, and int
 
 * “Building, Coding, Typing,” under review at *Computational Culture* (in revision for publication).
 
-* “Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture*, accepted September 2019.
+* “Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* (accepted September 2019).
 
 * “Interstitial Life and the Banality of Novelty in Whitehead’s *Process and Reality*,” *Process Studies* 47.1-2 (2018): 26-46.
 

@@ -16,9 +16,9 @@ date: 2020-03-01
 *Inventing Media*. Manuscript in Preparation
 
 ### Peer-Reviewed Articles
-"Building, Coding, Typing,"  under review at *Computational Culture* (in revision).
+"Building, Coding, Typing,"  under review at *Computational Culture* (in revision for publication).
 
-“Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture*, accepted September 2019.
+“Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* (accepted September 2019).
 
 “Interstitial Life and the Banality of Novelty in Whitehead’s *Process and Reality*,” *Process Studies* 47.1–2 (2018): 26–46.
 
@@ -98,7 +98,7 @@ Summer Research Grant, Graduate School, Duke University, 2014.
 “Bodies and Selves,” Instructor Nima Bassiri, Program in Literature, Fall 2013.
 
 ### Guest Lecturer
-Invited Co-instructor, “Reading Whitehead’s Process and Reality” graduate independent study, Instructor Mark Hansen, Program in Literature, Fall 2019.
+Invited Co-instructor, “Reading Whitehead’s _Process and Reality_" graduate independent study, Instructor Mark Hansen, Program in Literature, Fall 2019.
 
 “How to review an article for an academic journal,” for “Publication Workshop” graduate seminar, Instructor Robyn Wiegman, Program in Literature, Fall 2019.
 
@@ -120,7 +120,7 @@ Invited Co-instructor, “Reading Whitehead’s Process and Reality” graduate 
 
 ## Service
 ### Professional
-Review Board Member, Angelaki: Journal of the Theoretical Humanities, December 2017 to present.
+Review Board Member, _Angelaki: Journal of the Theoretical Humanities_, December 2017 to present.
 
 Chair, “Microbe Futures 3: Duke's Speculative Sensation Lab, Part 1” 33rd Annual Conference of the Society for Literature, Science, and the Arts , Irvine, CA, November 9–10, 2019.
 
@@ -133,10 +133,6 @@ Graduate Student Summer Resident, National Humanities Center, Research Triangle 
 Organizer and Chair, “Video Games’ Extra-Ludic Echoes,” 29th Annual Conference of the Society for Literature, Science, and the Arts, Rice University, Houston, TX, November 15, 2015.
 
 ### Institutional
-Website Creator and Maintainer, S-1 Speculative Sensation Lab, Duke University, Fall 2019–Spring 2020.
-
-Website Creator and Maintainer, BrainCultures, Humanities Unbound Lab, Duke University, Fall 2019–Spring 2020.
-
 Graphic Designer, “Srinivas Aravamudan Annual Lecture in Critical Theory,” Duke University, September 12–13, 2019.
 
 Graphic Designer, “Srinivas Aravamudan Annual Lecture in Critical Theory,” Duke University, September 20–21, 2018.
