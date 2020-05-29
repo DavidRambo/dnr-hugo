@@ -128,7 +128,7 @@ Organizer, “Microbe Futures 3-4: Duke's Speculative Sensation Lab, Parts 1 and
 
 Organizer and Chair, “Alternative Temporalities in Computer Gaming,” 31st Annual Conference of the Society for Literature, Science, and the Arts, Tempe, AZ, November 10, 2017.
 
-Graduate Student Summer Resident, National Humanities Center, Research Triangle Park, NC, Summer 2017. Authored a lesson titled "Written Experimentations in Laboratories and Role-Playing Games" (forthcoming June 2020).
+Graduate Student Summer Resident, National Humanities Center, Research Triangle Park, NC, Summer 2017. Authored a lesson titled "Written Experimentations in Laboratories and Role-Playing Games" (Available online <a href="https://education.nationalhumanitiescenter.org/courseware/lesson/33" target="_blank">here</a>).
 
 Organizer and Chair, “Video Games’ Extra-Ludic Echoes,” 29th Annual Conference of the Society for Literature, Science, and the Arts, Rice University, Houston, TX, November 15, 2015.
 
