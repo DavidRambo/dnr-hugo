@@ -2,6 +2,7 @@
 title: "Eliza and Speaking Computionally as a Human"
 date: 2020-05-27
 toc: false
+tags: ["video games", "Eliza", "Turing Test"]
 ---
 When Evelyn reads the "experimental new feature" dialogue for "Transparency Mode," I get the sense that the human face for Eliza's interface is more true to technology in a way.
 With the psychotherapy (if you can even call it that), it seems like a trick meant to distract the client from the A.I. backend.

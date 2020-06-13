@@ -2,6 +2,7 @@
 title: "Temporal Transposition in Barlow's Mystery FMV Games"
 date: 2020-06-13T14:10:18-04:00
 draft: false
+tags: ["Russian Formalism", "video games", "Sam Barlow", "time and narrative"]
 ---
 Does a flashback or a back-and-forth narrative between past and future constitute “temporal transposition,” in Viktor Shklovsky's sense?
 (A temporal transposition refers to the presentation of one sequence of events while another sequence, simultaneous to the one presented, is not itself presented—but it nonetheless bears on the narrative.)
