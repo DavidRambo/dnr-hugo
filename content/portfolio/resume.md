@@ -12,8 +12,8 @@ Trained to analyze how users and communities experience written, visual, and int
   * Investigate and assess suitability of potential jurors for client attorneys in real time using online databases and social media.
   * Promoted to monitoring court transcripts and writing in-depth juror profiles.  
 
-* Frontend Web Developer --- Duke University --- Fall 2019 to March 2020
-  * Devloped a website for S-1 Speculative Sensation Lab using Hugo static site generator and Netlify: {{< link uri="https://s-1lab.org" >}}s-1lab.org{{< /link >}}.
+* Front-end Web Developer --- Duke University --- Fall 2019 to March 2020
+  * Developed a website for S-1 Speculative Sensation Lab using Hugo static site generator and Netlify: {{< link uri="https://s-1lab.org" >}}s-1lab.org{{< /link >}}.
   * Created and maintained a website for BrainCultures humanities lab using WordPress: {{< link uri="https://sites.duke.edu/braincultures" >}}sites.duke.edu/BrainCultures{{< /link >}}.
 
 * Editor --- Division of Occupational Science, UNC–Chapel Hill --- September 2019
