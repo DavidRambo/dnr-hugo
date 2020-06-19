@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: 2020-02-14
+date: 2020-03-14
 toc: false
 ---
 # DAVID RAMBO, PhD
@@ -9,7 +9,7 @@ Trained to analyze how users and communities experience written, visual, and int
 
 ## Work Experience
 * Researcher --- Jury-X, Chapel Hill, NC --- Nov. 2019 to Mar. 2020
-  * Investigate and assess suitability of potential jurors for client attorneys in real time using online databases and social media.
+  * Investigated and assessed suitability of potential jurors for client attorneys in real time using online databases and social media.
   * Promoted to monitoring court transcripts and writing in-depth juror profiles.  
 
 * Front-end Web Developer --- Duke University --- Fall 2019 to March 2020
@@ -34,7 +34,7 @@ Trained to analyze how users and communities experience written, visual, and int
 ## Education
 ### Duke University
 * Ph.D., Graduate Program in Literature, 2018.
-  * Dissertation argues for an original interpretation of the co-evolution of humans and tools rooted in processes of intentionally mediating between disparate scales and phenomena. Synthesizes philosophies of science and technology with close analyses of pop cultural technologies including *Dungeons & Dragons*, electric guitar effects pedals, astrophotography, and videogame graphics.
+  * Dissertation argues for an original interpretation of the co-evolution of humans and tools. Synthesizes philosophies of science and technology with analyses of pop cultural media including _Dungeons & Dragons_, electric guitar effects pedals, astrophotography, and videogame graphics.
 ### University of California, Davis
 * BA, English, highest honors, 2011
   * Elliott Gilbert Memorial Prize for Best Honors Thesis, June 2011
@@ -72,7 +72,7 @@ Trained to analyze how users and communities experience written, visual, and int
 ## Academic Publications
 ### Peer-Reviewed Journal Articles
 
-* “Building, Coding, Typing,” under review at *Computational Culture* (in revision for publication).
+* “Building, Coding, Typing,” under review at *Computational Culture* (in revision for publication in Fall 2020).
 
 * “Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* (accepted September 2019).
 
