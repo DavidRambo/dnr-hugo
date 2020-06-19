@@ -7,7 +7,7 @@ tags: ["social media", "memes", "symbolism", "communication"]
 ### Memes are just clichés, right?
 
 On {{< link uri="http://crateandcrowbar.com/2018/02/09/episode-225-its-whats-missing/" >}}episode 225{{< /link >}} of podcast _The Crate & Crowbar_ from February 2018, Chris Thursten explained that so much of social media, especially Twitter, is composed of people pointing out any and all mistakes.
-With Twitter, this can mean a thousand people saying the same thing, which can accrete into a strong negative feelings of personal failure, exlcusion, and being attacked.
+With Twitter, this can mean a thousand people saying the same thing, which can amount to a strong negative feeling of personal failure, exlcusion, and being attacked.
 
 He then pointed out that memes seem only to work on the internet.
 In other contexts, they would be recognized as repeating clichés; whereas on the internet, these simple repetitions are valued as a symbolic currency of anonymous sympathy.
