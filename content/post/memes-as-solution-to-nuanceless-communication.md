@@ -1,13 +1,12 @@
 ---
 title: "Memes as Solution to Nuanceless Communication"
 date: 2020-06-19T13:16:06-04:00
-draft: true
+draft: false
+tags: ["social media", "memes", "symbolism", "communication"]
 ---
-“How memes respond to a lack of nuance in internet communication”
+### Memes are just clichés, right?
 
-## Memes are just clichés, right?
-
-On episode 225 of podcast _The Crate & Crowbar_ from February 2018, Chris Thursten explained that so much of social media, especially Twitter, is composed of people pointing out any and all mistakes.
+On {{< link uri="http://crateandcrowbar.com/2018/02/09/episode-225-its-whats-missing/" >}}episode 225{{< /link >}} of podcast _The Crate & Crowbar_ from February 2018, Chris Thursten explained that so much of social media, especially Twitter, is composed of people pointing out any and all mistakes.
 With Twitter, this can mean a thousand people saying the same thing, which can accrete into a strong negative feelings of personal failure, exlcusion, and being attacked.
 
 He then pointed out that memes seem only to work on the internet.
@@ -20,19 +19,19 @@ I think this absence of nuance could be key to explaining why repeated phrases a
 A meme reduces the degree of ambiguity in interpretation by automating a significant portion of the process of symbolic communication.
 The variablility lies (perhaps entirely) on the side of application of symbols to references, such that the side of interpretation in communication via memes emphasizes the modification of the reference rather than the symbol.
 
-## What’s a meme, though?
+### What’s a meme, though?
 
 So far I have had in mind memes that are themselves modified to fit the new point of reference.
 In this technique, elements of a topic slot into a rubric.
 Ryan Gosling “Hey Girl” pictures are relatively open-ended for memes of this category.
-See, for example, [Feminist Ryan Gosling](https://feministryangosling.tumblr.com/). 
+See, for example, {{< link uri="https://feministryangosling.tumblr.com/" >}}Feminist Ryan Gosling{{< /link >}}. 
 
 A stricter framework can be understood in the picture that depicts a couple walking in the background, the boyfriend looking over his shoulder at another woman walking away in the foreground, and his girlfriend giving him an angry, “are you serious?!” look.
 This provides a structure for representing an old trend in a given community being replaced by the “hot new thing.” Of course, this works on multiple levels—that is, its apparent simplicity and reduction of nuance relies on a foundation of social meanings that operate in parallel.
 In this case, the structure borrows from a stereotype of the young man who prioritizes sex or physical attraction over his relationship.
 The meme’s parallel of that stereotype with whatever topic has been slotted into it relies on a common process of objectification for the sake of personal satisfaction. 
 
-## Ambiguity
+### Ambiguity
 
 The cultural critic or anthropologist would likely focus on the base structure rather than its various applications.
 They would ask questions about the male gaze and a capitalist society’s prioritization of superficial novelty.
@@ -44,7 +43,7 @@ A newly formed iteration of a meme eclipses that ambiguity even as it relies on 
 In other words, any given instance of a meme works as a stable symbol with minimum chance of misinterpretation because it is simultaneously understood at the level of its varation in application—many of which have been seen.
 (Is it just me, or does this give off a Platonic vibe of a realm of Ideas or Forms each with a pure potentiality for realization?)
 
-## Anonymous Sympathy
+### Anonymous Sympathy
 
 So, what, then, does this have to do with memes being, as I wrote above, “a symbolic currency of anonymous sympathy”?
 (Perhaps this holds a link to Thursten’s description of Twitter as a barrage of mostly minor corrections from strangers.)
@@ -67,5 +66,4 @@ The internet pushes the fundamental assumptions about language to the point of b
 Memes, however, step in as a mode of symbolizing feelings as well as outlooks, patterns, events, and so forth, in a way that reduces external contextual support.
 That paradigmatic scaffolding comes prefab.
 
-You could call the meme a medium instead of a currency, but I like the analogy with currency because the latter is: (1) a medium of exchange, (2) a way to store value, (3) a measure of value
- 
+You could call the meme a medium instead of a currency, but I like the analogy with currency because the latter is: (1) a medium of exchange, (2) a way to store value, (3) a measure of value.
