@@ -22,7 +22,7 @@ Trained to analyze how users and communities experience written, visual, and int
   * Ensured document’s legibility and ease of navigation for administrators and campus visitors.
 
 * Instructor --- Global Cultural Studies, Duke University --- Spring 2015 & 2016
-  * Designed and taught two writing-intensive undergraduate seminars.
+  * Designed and taught two writing-intensive undergraduate seminars, which received excellent feedback including an award for quality of instruction and intellectual stimulation.
   * Lectured and guided discussions about digital technologies, science fiction, media studies, and literary and film criticism.
   * Provided constructive feedback on writing assignments in a timely fashion and encouraged improvement by offering new grades for rewrites.
 
