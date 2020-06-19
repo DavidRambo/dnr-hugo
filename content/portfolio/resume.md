@@ -10,7 +10,8 @@ Trained to analyze how users and communities experience written, visual, and int
 ## Work Experience
 * Researcher --- Jury-X, Chapel Hill, NC --- Nov. 2019 to Mar. 2020
   * Investigated and assessed suitability of potential jurors for client attorneys in real time using online databases and social media.
-  * Promoted to monitoring court transcripts and writing in-depth juror profiles.  
+  * Promoted to monitoring court transcripts and writing in-depth juror profiles.
+  * Developed efficient and legible abbreviation style for court records.
 
 * Front-end Web Developer --- Duke University --- Fall 2019 to March 2020
   * Developed a website for S-1 Speculative Sensation Lab using Hugo static site generator and Netlify: {{< link uri="https://s-1lab.org" >}}s-1lab.org{{< /link >}}.
