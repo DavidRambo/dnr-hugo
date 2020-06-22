@@ -32,6 +32,11 @@ Trained to analyze how users and communities experience written, visual, and int
   * Met with students to discuss course materials.
   * Managed course websites.
 
+* Legal Secretary — Gray & Prouty, Sacramento, CA — September 2011–May 2012
+  * Reviewed and submitted legal documents and subpoenaed records.
+  * Coordinated scheduling for supervising attorney, depositions, court dates, and plaintiff doctor appointments.
+  * Maintained timely correspondence with clients, plaintiff attorneys, and judges.
+
 ## Education
 ### Duke University
 * Ph.D., Graduate Program in Literature, 2018.
@@ -41,7 +46,7 @@ Trained to analyze how users and communities experience written, visual, and int
   * Elliott Gilbert Memorial Prize for Best Honors Thesis, June 2011
 * BA, History, higher honors, 2011
 
-## Academic Service and Collaborations
+## Professional Service and Collaborations
 * Review Board Member --- *Angelaki: Journal of the Theoretical Humanities* --- December 2017 to Present
   * Write reports on article submissions regarding suitability for publication.
   * Assess argument, sources, and overall writing quality.
