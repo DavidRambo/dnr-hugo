@@ -6,7 +6,7 @@ date: 2020-03-01
 
 **PhD**, Graduate Program in Literature, Duke University, 2018
 
-**BA** in English (highest honors) and History (higher honors), University of California, Davis, 2011
+**BA** in English (with highest honors) and History (with honors), University of California, Davis, 2011
 
 <hr>
 
