@@ -42,9 +42,9 @@ Trained to analyze how users and communities experience written, visual, and int
 * Ph.D., Graduate Program in Literature, 2018.
   * Dissertation argues for an original interpretation of the co-evolution of humans and tools. Synthesizes philosophies of science and technology with analyses of pop cultural media including _Dungeons & Dragons_, electric guitar effects pedals, astrophotography, and videogame graphics.
 ### University of California, Davis
-* BA, English, highest honors, 2011
+* BA, English, with highest honors, 2011
   * Elliott Gilbert Memorial Prize for Best Honors Thesis, June 2011
-* BA, History, higher honors, 2011
+* BA, History, with honors, 2011
 
 ## Professional Service and Collaborations
 * Review Board Member --- *Angelaki: Journal of the Theoretical Humanities* --- December 2017 to Present
