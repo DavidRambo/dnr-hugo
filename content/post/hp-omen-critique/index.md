@@ -154,9 +154,7 @@ As I scroll down, the page is blank white space for too long before populating w
 
 ![OMEN Desktop Choices](OMEN-desktop-2.png)
 
-The amount of work the user must perform—measured in attentional effort, clicks, and scrolling—in order to find out about OMEN exceeds what I would accept as a combination of information and stylistic presentation. The repetition of "SHOP NOW" and "LEARN MORE" buttons is symptomatic of this excess. 
-
-*It is bloated.*
+The amount of work the user must perform—measured in attentional effort, clicks, and scrolling—in order to find out about OMEN exceeds what I would accept as a combination of information and stylistic presentation. The repetition of "SHOP NOW" and "LEARN MORE" buttons illustrates this excess. 
 
 ## Which Store?
 
@@ -198,14 +196,14 @@ I prefer this blended store-with-branding page to the new OMEN Homepage. It has 
 
 ## Conclusion
 
-Whew! That was a lot to get through. And yet so much was left out of this analysis. I pointed out a variety of problems with HP's *several* PC websites, and they can be summed up as excessive redundancy. From the mottos (I didn't get to "Play harder. Play Smarter.") to the many intermediary stages when navigating the sites to the overdesigned new omen.com, HP's OMEN webpresence too often disregards Steve Krug's titular admonishment to web designers: "don't make me think."
+Whew! That was a lot to get through. And yet so much was left out of this analysis. I pointed out a variety of problems with HP's *several* PC websites, and they can be summed up as excessive redundancy. HP's OMEN web presence too often disregards Steve Krug's admonishment to web designers: "don't make me think."
 
 Improvement can be easily arrived at, I think, by simplifying at all levels. 
 
-#### This means consolidating websites. 
+#### This means consolidating websites... 
 
-While the redundancy of multiple entry points to buying OMEN products might seem like a way to ensure that consumers get to a point-of-sale, I argue that it increases the likelihood of confusion and frustration when trying to find out what it is they would purchase. 
+While the redundancy of multiple entry points to buying OMEN products might seem like a way to ensure that consumers get to a point-of-sale, I argue that it increases the likelihood of confusion and frustration when trying to find out what it is they would purchase. Accordingly, I suggest removing one of the websites dedicated to the OMEN brand, preferably the out-of-the-way marketing/store hybrid site. 
 
-#### This means streamlining the experience. 
+#### ...and streamlining the experience. 
 
-With regard to the OMEN homepage, eliminate the majority of visual effects and keep the header stuck to the top of the browser for easy navigation. In addition to what was mentioned above, I recommend removing the drop-down buttons in the "Technical Specifications" sections of the Gaming PCs as well. The skeleton for the OMEN web presence is already solid. Unfortunately, the layers of effects, menus, imbalanced white space, and disjointed websites will probably exhaust the user's patience.
+With regard to the redesigned OMEN homepage, I recommend eliminating the majority of visual effects and keeping the header stuck to the top of the browser for easy navigation. I also recommend removing the drop-down buttons in the "Technical Specifications" sections of the Gaming PCs. The skeleton for the OMEN web presence is already solid. Unfortunately, the layers of effects, menus, imbalanced white space, and disjointed websites will likely exhaust the user's patience.
