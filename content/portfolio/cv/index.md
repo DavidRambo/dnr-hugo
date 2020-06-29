@@ -24,15 +24,15 @@ date: 2020-03-01
 
 “Of Fear and Exaltation: The Sublime Autonomy of Finance,” *Angelaki: Journal of the Theoretical Humanities* 21.2 (2016): 83–98.
 
-“Analogizing Data: The Real Subsumption of Manifest Destiny by Capital,” *Hyperrhiz* 13 (November 2015): http://hyperrhiz.io/hyperrhiz13/sensors-data-bodies/manifest-data-rambo.html.
+“Analogizing Data: The Real Subsumption of Manifest Destiny by Capital,” *Hyperrhiz* 13 (November 2015): {{< link uri="http://hyperrhiz.io/hyperrhiz13/sensors-data-bodies/manifest-data-rambo.html" >}}Link{{< /link >}}.
 
 ### Book Chapters
 “The Error-Image: On the Technics of Memory,” *Post-Cinema: Theorizing 21st-Century Film*, eds. Shane Denson and Julia Leyda, Falmer: REFRAME Books (2016):
-http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/.
+{{< link uri="http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/" >}}Link{{< /link >}}.
 
-“Organisms in Reticula,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (2016): http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula.
+“Organisms in Reticula,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (2016): {{< link uri="http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula" >}}Link{{< /link >}}.
 
-Response to Rebecca Norton, “Displacement Paths,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (August 2016): http://scalar.usc.edu/works/networkecologies/displacement-paths.
+Response to Rebecca Norton, “Displacement Paths,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (August 2016): {{< link uri="http://scalar.usc.edu/works/networkecologies/displacement-paths" >}}Link{{< /link >}}.
 
 <hr>
 
@@ -57,15 +57,15 @@ Summer Research Grant, Graduate School, Duke University, 2014.
 
 ## Conference Presentations
 
-“Microbial Representations in Literary-Scientific Hybrid Texts,” Modern Language Association Annual Convention, Seattle, WA, January 12, 2020.
+“Microbial Representations in Literary-Scientific Hybrid Texts,” Modern Language Association Annual Convention, Seattle, WA, January 12, 2020. {{< link uri="/mla-2020" >}}Read here.{{< /link >}}
 
-“Fecal Froths and Sourdough Starters: A Non-Phenomenology of Alimentation,” 33rd Annual Conference of the Society for Literature, Science, and the Arts, Irvine, CA, November 8, 2019.
+“Fecal Froths and Sourdough Starters: A Non-Phenomenology of Alimentation,” 33rd Annual Conference of the Society for Literature, Science, and the Arts, Irvine, CA, November 8, 2019. {{< link uri="/slsa2019" >}}Read here.{{< /link >}}
 
-“Sisyphean Software: Cycling Through the Absurd Joy of Dark Souls,” 31st Annual Conference of the Society for Literature, Science, and the Arts, Tempe, AZ, November 10, 2017.
+“Sisyphean Software: Cycling Through the Absurd Joy of Dark Souls,” 31st Annual Conference of the Society for Literature, Science, and the Arts, Tempe, AZ, November 10, 2017. {{< link uri="/sisyphean-software" >}}Read here.{{< /link >}}
 
-“Extensions of Nature: Sonic Problematics of Simondon’s Preindividual Reality,” 31st Annual Conference of the Society for Literature, Science, and the Arts, Tempe, AZ, November 9, 2017.
+“Extensions of Nature: Sonic Problematics of Simondon’s Preindividual Reality,” 31st Annual Conference of the Society for Literature, Science, and the Arts, Tempe, AZ, November 9, 2017. {{< link uri="/extensions-of-nature" >}}Read here.{{< /link >}}
 
-“After-Death: The Distribution of Cognition in Daniel Suarez’s Daemon and Freedom,” 30th Annual Conference of the Society for Literature, Science, and the Arts, Atlanta, GA, November 4, 2016.
+“After-Death: The Distribution of Cognition in Daniel Suarez’s _Daemon_ and _Freedom_,” 30th Annual Conference of the Society for Literature, Science, and the Arts, Atlanta, GA, November 4, 2016.
 
 “Spinoza’s Strategy Guide to Video Game Completion,” 29th Annual Conference of the Society for Literature, Science, and the Arts, Houston, TX, November 15, 2015.
 
@@ -110,11 +110,11 @@ Invited Co-instructor, “Reading Whitehead’s _Process and Reality_" graduate 
 
 “Scientific Writing,” for “Media Theory,” Instructor Mark Hansen, Global Cultural Studies Major in the Program in Literature, Fall 2015.
 
-“Nodes of Memory and Epidemic Vectors in Chuck Palahniuk’s Rant,” for “Social Networks: From Virus to Internet,” Instructor Mark Hansen, Program in Literature, Spring 2014.
+“Nodes of Memory and Epidemic Vectors in Chuck Palahniuk’s _Rant_,” for “Social Networks: From Virus to Internet,” Instructor Mark Hansen, Program in Literature, Spring 2014.
 
-“Networks of Power and Finance in David Cronenberg’s Cosmopolis,” for “Social Networks: From Virus to Internet,” Instructor Mark Hansen, Program in Literature, Spring 2014.
+“Networks of Power and Finance in David Cronenberg’s _Cosmopolis_,” for “Social Networks: From Virus to Internet,” Instructor Mark Hansen, Program in Literature, Spring 2014.
 
-“Virality and the Monstrous in Danny Boyle’s 28 Days Later,” for “Social Networks: From Virus to Internet,” Instructor Mark Hansen, Program in Literature, Spring 2014.
+“Virality and the Monstrous in Danny Boyle’s _28 Days Later_,” for “Social Networks: From Virus to Internet,” Instructor Mark Hansen, Program in Literature, Spring 2014.
 
 <hr>
 
