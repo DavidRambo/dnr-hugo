@@ -20,7 +20,7 @@ Its formulation of technology as its own individuation intervenes between predom
 
 ### Contact Traces: On the Creative Technology of Videogame Gore
 
-Forthcoming in *Discourse: Journal for Theoretical Studies in Media and Culture*
+Forthcoming in *Discourse: Journal for Theoretical Studies in Media and Culture*, 42.3 (Fall 2020).
 
 ![Hotline Miami](hotline-miami.png)
 

@@ -18,7 +18,7 @@ date: 2020-03-01
 ### Peer-Reviewed Articles
 "Building, Coding, Typing,"  under review at *Computational Culture* (in revision for publication).
 
-“Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* (accepted September 2019).
+“Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* 42.3 (Fall 2020), Forthcoming.
 
 “Interstitial Life and the Banality of Novelty in Whitehead’s *Process and Reality*,” *Process Studies* 47.1–2 (2018): 26–46.
 
