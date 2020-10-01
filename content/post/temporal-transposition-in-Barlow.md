@@ -6,7 +6,7 @@ tags: ["Russian Formalism", "video games", "Sam Barlow", "time and narrative"]
 ---
 Does a flashback or a back-and-forth narrative between past and future constitute “temporal transposition,” in Viktor Shklovsky's sense?
 (A temporal transposition refers to the presentation of one sequence of events while another sequence, simultaneous to the one presented, is not itself presented—but it nonetheless bears on the narrative.)
-The interspersing of two stories that are in fact arranged in a linear timeline is a kind of self-deceleration via temporal rhythm (progressive and regressive being the operative concepts here).
+The interspersing of two stories that are in fact arranged in a linear timeline is a kind of self-deceleration via temporal rhythm (progressive/anticipatory and regressive/referential being the operative concepts here).
 It’s not exactly a digression because it’s one contiguous thread, which has been cut up and rearranged.
 
 I say "self-deceleration" because the deceleration is accomplished through an internal arrangement of elements rather than an interruption through the introduction of an (initially) external element like a tangent, another character's arrival or interjection, or, on a smaller scale, a repetition that does nothing to increase the clarity (a device Gogol implements frequently).
@@ -14,7 +14,7 @@ I say "self-deceleration" because the deceleration is accomplished through an in
 The resulting narrative construction is a temporal form, the material for which is a diachronic storyline. In order to be a form, it must have deformed some form that came along with the material.
 In this case, that which is deformed is the linear organization of events.
 This reorganization effects the progressive, or anticipatory, and the regressive, or referential, aspects of the ordering of a story.
-(These paired concepts come from Boris Tynianov's Problem of Verse Language, where he applied them to rhythm in poetry.)
+(These paired concepts come from Jurij Tynianov's *Problem of Verse Language*, where he applied them to rhythm in poetry.)
 These two aspects are experienced in the consumption of a narrative, in the sensations of its flow.
 While the progressive-regressive valences of that flow operate in a straightfoward plot (they contribute to experiencing its organic composition), temporal transposition renders it a dominant element.
 
