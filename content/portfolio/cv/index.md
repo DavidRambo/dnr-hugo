@@ -4,9 +4,15 @@ date: 2020-03-01
 ---
 ## Education
 
-**PhD**, Graduate Program in Literature, Duke University, 2018
+**PhD**, Graduate Program in Literature, Duke University, 2018.
 
-**BA** in English (with highest honors) and History (with honors), University of California, Davis, 2011
+**BA** in English (with highest honors) and History (with honors), University of California, Davis, 2011.
+
+<hr>
+
+## Professional Experience
+
+Postdoctoral Associate with the Chair in the Program in Literature, Duke University, 2020–2022.
 
 <hr>
 
@@ -29,6 +35,8 @@ date: 2020-03-01
 ### Book Chapters
 “The Error-Image: On the Technics of Memory,” *Post-Cinema: Theorizing 21st-Century Film*, eds. Shane Denson and Julia Leyda, Falmer: REFRAME Books (2016):
 {{< link uri="http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/" >}}Link{{< /link >}}.
+
+"The Error-Image" in Chinese translation by Chen Yu (Shanghai Film School at Shanghai University) as part of a book in the Cinephilia series, edited by Li Yang (Peking University).
 
 “Organisms in Reticula,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (2016): {{< link uri="http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula" >}}Link{{< /link >}}.
 
