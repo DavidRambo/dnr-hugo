@@ -22,7 +22,7 @@ Postdoctoral Associate with the Chair in the Program in Literature, Duke Univers
 *Inventing Media*. Manuscript in Preparation
 
 ### Peer-Reviewed Articles
-"Building, Coding, Typing,"  under review at *Computational Culture* (in revision for publication).
+"Building, Coding, Typing," accepted at *Computational Culture* (in revision for publication).
 
 “Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* 42.3 (Fall 2020), Forthcoming.
 
