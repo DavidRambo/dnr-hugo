@@ -20,7 +20,7 @@ This is a scientific argument because it argues via logic, the concepts of stati
 When Fields and Fields point out the lack of a correlation between the trait of sickle-cell anemia and African ancestry, they engage in a cross-examination of concepts.
 In more general terms, science is a dialectic of reason and evidence, whereas racecraft—the set of ideas and social practices that transforms racism into race—accepts as fact an imaginary correlation between mental concepts and evidence.
 The logic of racecraft is the transformation of an effect into its cause.
-"Calling genetic *racial* simplies analysis by cutting it off" (54).
+"Calling genetic *racial* simplifies analysis by cutting it off" (54).
 
 Perceiving and ordering the world according to socio-genic concepts is not the same as scientific rationality.
 I am surprised that a scholar of science and technology studies such as Benjamin would equate all the different kinds of mental production of forms/concepts with such illogical practices as witchcraft and racecraft (maybe I shouldn't be, given Latour's position).
