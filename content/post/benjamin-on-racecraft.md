@@ -15,7 +15,7 @@ What Benjamin fails to recognize here is that without a distinction between "goo
 This distinction does not "run counter to a key argument" but *is essential* to it.
 Fields and Fields do not "inadvertently" maintain a distinction between good and bad science but, on the contrary, they *deliberately* maintain a distinction between science and ideology.
 When the authors they read pronounce racist perspectives, Fields and Fields are quick to highlight how such racist pronouncements are made *in spite* of the scientific work performed by the same person.
-For example, their critique of how blood transfusions were organized according to geographically based ancestry is made by explaining how the evidence used to support such segregation in fact fails to support it.
+For example, in their critique of how blood transfusions were organized according to geographically based ancestry, they explain how the evidence used to support such segregation in fact fails to support it.
 This is a scientific argument because it argues via logic, the concepts of statistical analysis, and evidence.
 When Fields and Fields point out the lack of a correlation between the trait of sickle-cell anemia and African ancestry, they engage in a cross-examination of concepts.
 In more general terms, science is a dialectic of reason and evidence, whereas racecraft—the set of ideas and social practices that transforms racism into race—accepts as fact an imaginary correlation between mental concepts and evidence.
