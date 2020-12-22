@@ -24,7 +24,7 @@ Postdoctoral Associate with the Chair in the Program in Literature, Duke Univers
 ### Peer-Reviewed Articles
 "Building, Coding, Typing," accepted at *Computational Culture* (in revision for publication).
 
-“Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* 42.3 (Fall 2020), Forthcoming.
+“Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* 42.3 (Fall 2020): 100–128.
 
 “Interstitial Life and the Banality of Novelty in Whitehead’s *Process and Reality*,” *Process Studies* 47.1–2 (2018): 26–46.
 
@@ -36,7 +36,7 @@ Postdoctoral Associate with the Chair in the Program in Literature, Duke Univers
 “The Error-Image: On the Technics of Memory,” *Post-Cinema: Theorizing 21st-Century Film*, eds. Shane Denson and Julia Leyda, Falmer: REFRAME Books (2016):
 {{< link uri="http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/" >}}Link{{< /link >}}.
 
-"The Error-Image" in Chinese translation by Chen Yu (Shanghai Film School at Shanghai University) as part of a book in the Cinephilia series, edited by Li Yang (Peking University).
+"The Error-Image" in Chinese translation by Chen Yu (Shanghai Film School at Shanghai University) as part of a forthcoming book in the Cinephilia series, edited by Li Yang (Peking University).
 
 “Organisms in Reticula,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (2016): {{< link uri="http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula" >}}Link{{< /link >}}.
 
