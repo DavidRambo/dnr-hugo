@@ -27,12 +27,10 @@ I am surprised that a scholar of science and technology studies such as Benjamin
 Fields and Fields do not argue that racecraft, like witchcraft before it, is a form of rationality.
 Instead, they explain that for people living in those societies, racecraft feels like it makes perfect sense.
 Hence the metaphor deployed in the first chapter: one must adopt the perspective of an alien (or, in some cases, a person from another country) in order to see through the spontaneous naturalness of racecraft.
-Nor do Fields and Fields "insulate" science from racism—their examples, including the one about James Watson that Benjamin cites herself in the same passage I excerpted, proves that science is always open to ideological contamination, that is, to becoming non-scientific.
+Nor do Fields and Fields "insulate" science from racism—their examples, including the one about James Watson that Benjamin cites herself in the same passage I excerpted, shows that for the authors science is always open to ideological contamination, that is, to becoming non-scientific.
 In other words, there is no such thing as *bad* science: either it is science or it is ideology.
 
-I furthermore suspect a similar presupposition in Benjamin's own advocation for a science studies approach.
-For how else could she speak of "larger institutional and economic structures" without first accepting that there is such a knowledge practice as science, against which the categories of "institutional and economic" obtain their sense?
-Benjamin, I think, adopts the same underlying position as Fields and Fields: that there is such a thing as science, in this case the science of genetics along with its conceptually delimited object, the gene, and there is an array of social forces that, counter to the rational exigency of the science, push scientists and their public/non-scientific interlocutors toward unscientific assertions of the biological reality of race.
+For Fields and Fields: there is the science of genetics along with its conceptually delimited object, the gene, and there is an array of social forces that, counter to the rational exigency of the science, push scientists and their public/non-scientific interlocutors toward unscientific assertions of the biological reality of race.
 
 Consider what, according to Benjamin, the "social scientists studying genomics reveal": scientists' investment in "racial terms, in part, to *redress* scientific and medical neglect of subordinate populations" (687).
 Or similarly in the same passage: "well respected researchers are employing race as a genetic category in what is *otherwise* considered 'good' work by conventional standards" (687, emphasis added).
