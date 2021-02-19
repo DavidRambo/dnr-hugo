@@ -62,7 +62,7 @@ peoples who cannot be homogenized, or whose homogenization is the effect
 of the epistemic violence itself" (36).
 
 Indeed, in describing Spivak's position, Butler refers to her refusal of "the ruse of the transparency that is the instrument of colonial 'reason'" (36).
-In its place, "Spivak offers cultural transplation as both a theory and practice of political responsibility."
+In its place, "Spivak offers cultural translation as both a theory and practice of political responsibility."
 
 Here's Butler's take on how "universality has been used to extend certain colonialist and racist understandings of civilized 'man'," etc. (39):
 
