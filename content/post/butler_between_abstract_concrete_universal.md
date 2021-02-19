@@ -94,7 +94,3 @@ She continues to treat the universal as something that never has enough differen
 But insofar as she acknowledges the incompleteness and consequent changeability of the universal, there is at least a gesture toward concreteness.
 However, it is not actually the concrete universal because Butler has not thought the identity of universal and particular subsisting in the individual.
 Indeed, the individual---the third moment or "functional part" of the notion/concept---is absent in this essay.
-
-## Laclau, "Identity and Hegemony: The Role of Universality in the Constitution of Political Logics" (44--89)
-
-
