@@ -167,7 +167,7 @@ Respondent, “The Ecological Pharmacology of 21st Century Media,” Mark Hansen
 <hr>
 
 ## Research Collaboration
-Participant, S-1 Speculative Sensation Lab, Duke University, s-1lab.org, Fall 2012–Present.
+Participant, S-1 Speculative Sensation Lab, Duke University, s-1lab.org, Fall 2012–Fall 2019.
 
 Participant, BrainCultures, Humanities Unbound Lab, Duke University, Fall 2019–Spring 2020.
 
