@@ -22,7 +22,7 @@ Postdoctoral Associate with the Chair in the Program in Literature, Duke Univers
 *Inventing Media*. Manuscript in Preparation
 
 ### Peer-Reviewed Articles
-"Building, Coding, Typing," accepted at *Computational Culture* (in revision for publication).
+"Building, Coding, Typing," accepted at *Computational Culture* (Forthcoming April 2021).
 
 “Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* 42.3 (Fall 2020): 100–128.
 
@@ -93,7 +93,14 @@ Summer Research Grant, Graduate School, Duke University, 2014.
 
 ## Teaching
 
+### Future Courses
+"Play It Again: Recursive Forms and Narrative," Global Cultural Studies Major in the Program in Literature, Fall 2021.
+
+"Whitehead with Contemporary Theory," Graduate Seminar in the Program in Literature, co-instructor with Mark Hansen, Fall 2021.
+
 ### Instructor
+"Being Artificial," Global Cultural Studies Major in the Program in Literature, Spring 2021.
+
 “Technics and Galactic Capital,” Global Cultural Studies Major in the Program in Literature, Spring 2016.
 
 “Breathing Electricity: Cyberspace on Page and Screen,” Global Cultural Studies Major in the Program in Literature, Spring 2015.
