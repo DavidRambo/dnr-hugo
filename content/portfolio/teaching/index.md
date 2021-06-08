@@ -26,6 +26,9 @@ fictional, historical, and theoretical texts.
 ### Sample Syllabi
 <ul>
   <li>
+    <a href="being-artificial-syllabus.pdf" title="Being Artificial (Spring 2021)" target="_blank">Being Artificial</a> (Duke University, Spring 2021)   
+  </li>
+  <li>
     <a href="Galactic-Capital-syllabus.pdf" title="Technics and Galactic Capital (Spring 2016)" target="_blank">Technics and Galactic Capital</a> (Duke University, Spring 2016)
   </li>
   <li>
