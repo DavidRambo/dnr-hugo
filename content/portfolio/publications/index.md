@@ -1,13 +1,13 @@
 ---
 title: "Publications"
 ---
-### Building, Coding, Typing
+### Building, Coding, Typing: Defining Technological Individuation through Custom Mechanical Keyboard Culture
 
-Under review for Fall publication in _Computational Culture_
+_Computational Culture_, Issue 8 (July 2021)
 
 ![Planck with XDA Canvas](planck.jpg)
 
-This article describes the technoculture of custom mechanical keyboards, with an emphasis on the author’s experience of building, programming, and relearning to type Colemak on a non-standard mechanical keyboard called the Planck.
+This article describes the technoculture of custom mechanical keyboards, with an emphasis on my experience building, programming, and relearning to type Colemak on a non-standard mechanical keyboard called the Planck.
 The Planck is not merely a technical _object_ but a _metonymy_ for a technical activity.
 Drawing on Gilbert Simondon’s philosophy of individuation and technical objects, I propose that technology is first and foremost a process that modifies phenomena by intentionally intervening in the media that condition them.
 Human experience and cultural meaning are no less integral to technology’s purposeful coordination of heterogeneous processes than the physical and electronic components.
@@ -17,10 +17,9 @@ Ultimately, this article contributes to Eric Schatzberg’s work on the technolo
 Its formulation of technology as its own individuation intervenes between predominant media theories that rely on a either a paradigm of human-tool prosthesis or the materiality of nonhuman actors to explain the nature of technology. 
 
 
-
 ### Contact Traces: On the Creative Technology of Videogame Gore
 
-Forthcoming in *Discourse: Journal for Theoretical Studies in Media and Culture*, 42.3 (Fall 2020).
+*Discourse: Journal for Theoretical Studies in Media and Culture*, 42.3 (Fall 2020).
 
 ![Hotline Miami](hotline-miami.png)
 
