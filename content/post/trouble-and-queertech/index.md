@@ -1,7 +1,7 @@
 ---
 title: "Trouble and Queer Tech"
 date: 2019-11-18
-drafts: false
+drafts: true
 tags: ["cyberpunk", "literary criticism", "science fiction"]
 ---
 ## On Melissa Scott’s *Trouble and Her Friends* (1994)
