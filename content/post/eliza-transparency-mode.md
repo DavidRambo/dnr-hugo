@@ -1,5 +1,5 @@
 ---
-title: "Eliza and Speaking Computionally as a Human"
+title: "Eliza and Speaking Computationally as a Human"
 date: 2020-05-27
 toc: false
 tags: ["video games", "Eliza", "Turing Test"]
