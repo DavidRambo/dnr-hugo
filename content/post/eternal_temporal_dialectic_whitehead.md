@@ -24,7 +24,7 @@ this temporal ordering depends on C having felt all actual occasions in
 its actual world via the physical prehension of its totality. The order
 of entities according to both the extensive continuum in its ultimate
 generality and the more specialized social order of C\'s background
-cosmich epoch is a consequent result of C\'s concrescence of those
+cosmic epoch is a consequent result of C\'s concrescence of those
 entities. Their order does not precede C but, rather, depends on C\'s
 aesthetic synthesis for its perpetually renewed existence as objective
 datum for the creative advance. To be sure, there is a massiveness of
@@ -58,7 +58,7 @@ in some eternal receptacle.
 
 Allan levies these points against Whitehead\'s assertion that there must
 be some Eternal aspect to reality, without which novel entities would
-neither be conditioned by antecedent occasoins nor even come into
+neither be conditioned by antecedent occasions nor even come into
 existence in the first place. \"Whitehead\'s solution is to ground it in
 an Eternal receptacle, a reality that is not itself temporal but is able
 to sustain the things of the past, and to do so in a way that makes it
@@ -146,7 +146,7 @@ Allan 303). It is never the case that C\'s potential for directly
 feeling A has only B to contend with; there is a multitude of occasions,
 many of which were contemporaries of B, for which A is included in their
 actual worlds. My concern is with the legitimacy of generalizing that
-sequentiality from the massiveness of realization inour cosmic epoch to
+sequentiality from the massiveness of realization in our cosmic epoch to
 metaphysical generality. In *Process and Reality*, Whitehead does assert
 that an actual entity necessitates a successive entity, though it does
 not necessitate a preceding occasion. (I would argue that the necessity
@@ -222,7 +222,7 @@ from *PR*: \"Any entity whose conceptual recognition does not involve a
 necessary reference to any definite actual entities of the temporal
 world is called an \'eternal object\'\" (44). Allan, in his 2008 essay
 \"A Functionalist Reinterpretation of Whitehead\'s Metaphysics,\" takes
-this definition to imply a nontemporal receptacle of the totality of
+this definition to imply a non-temporal receptacle of the totality of
 eternal objects (331). He says: \"An eternal object need never be
 actualized, but should it be it may then recur.\" I disagree. The key
 word to focus on in Whitehead\'s sentence is \"necessary.\" Whitehead is
@@ -230,14 +230,14 @@ not saying that absolutely *no* reference occurs to definite actual
 entities; he says only that no particular reference is *necessary*. The
 eternal object is that entity felt in such a way that it does not
 necessitate reference to one definite actual entity. That is the whole
-point of conceptual valuation (the fourth categorial obligation, though
+point of conceptual valuation (the fourth categoreal obligation, though
 I find the fifth, which is conceptual reversion, to be necessary as
 well). There is no separate set of eternal objects here, subsisting
 timelessly. They are not \"real\" in and of themselves. All eternal
 objects are derived from actuality, from the temporal world (this is
 Dewey\'s proposal, which Allan takes up). They are the metaphysically
 general case of \"derivative abstraction.\" Their reality always depends
-upon concrescence and does not presuppose a nontemporal, timeless world
+upon concrescence and does not presuppose a non-temporal, timeless world
 as counterpart to the temporal world of definite actual entities. Nor
 does it presuppose a primordial actual entity. (I agree with Allan\'s
 critique of such a primordial actual entity, and I would further say
@@ -315,7 +315,7 @@ his reading of *Adventures of Ideas*, gives an account of the becoming
 of novel entities in line with Whitehead\'s \"settled world.\"
 
 > \"The \'Reality\' from which this new occasion emerges is \'the
-> past,\' which is composed of \'diverse individula occasions.\' This
+> past,\' which is composed of \'diverse individual occasions.\' This
 > Reality is an \'initiating\' power, an \'energizing\' force---the
 > originating impetus of the process of concrescence. The past is
 > described not merely as an inheritance, a passive lump of brute fact
