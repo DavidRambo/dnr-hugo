@@ -2,6 +2,7 @@
 title: The Eternal-Temporal Dialectic in Whitehead's Metaphysics (feat. George Allan)
 date: 2022-04-11
 draft: false
+tags: ["Whitehead", "eternity", "time", "form"]
 ---
 George Allan\'s most recent book, *Whitehead's Radically Temporalist
 Metaphysics: Recovering the Seriousness of Time* (2020), has recently

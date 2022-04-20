@@ -110,4 +110,8 @@ The worst was sepsis. The organisms brought from the Zaibatsu wreaked havoc on t
         The attenuated blossoms of the Shaper garden [engineered to live without bacteria] mildewed and crumbled at the touch of raw humanity. The vegetation took strange forms as it suffered and contorted, its stems corkscrewing in rot-dusted perversions of growth.
 {{< /blockquote >}}
 
-Here, “raw humanity” refers equally to the microbiome borne by human bodies as to the modification of plants to live without bacteria. The challenge *Schismatrix* presents from its perspective of ecological complexity is learning to care for the individual in abstraction from any one individual. For an actually existing individual is already an ossification of life’s creativity—even as much as it is a result of that creativity. In concrete terms, this means caring for the conditions of possibility for human individuality. To do so would demand a change in Yong’s rhetoric of what technology means—a change from anthropocentric prosthetic utility to a processual outlook on the invention of worlds.
+Here, “raw humanity” refers equally to the microbiome borne by human bodies as to the modification of plants to live without bacteria. 
+The challenge *Schismatrix* presents from its perspective of ecological complexity is learning to care for the individual in abstraction from any one individual. 
+For an actually existing individual is already an ossification of life’s creativity—even as much as it is a result of that creativity. 
+In concrete terms, this means caring for the conditions of possibility for human individuality. 
+To do so would demand a change in Yong’s rhetoric of what technology means—a change from anthropocentric prosthetic utility to a processual outlook on the invention of worlds.
