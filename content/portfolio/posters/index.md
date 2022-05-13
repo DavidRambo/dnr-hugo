@@ -4,9 +4,19 @@ date: 2019-11-16T12:00:00
 tags: []
 toc: false
 ---
-Over the years, I have designed posters for department events at Duke. I've made most with Canva (free, not premium). The main constraint is to fit in all the information: event info for the lecture, the seminar, co-sponsors, QR code, and so on. Packing it all in while maintaining a pleasing amount of the backdrop image is a fun puzzle.
+Over the years, I have designed posters for department events at Duke. 
+I've made most with Canva (free, not premium). 
+The main constraint is to fit in all the information: event info for the lecture, the seminar, co-sponsors, QR code, and so on. 
+Packing it all in while maintaining a pleasing amount of the backdrop image is a fun puzzle.
 
 ## Srinivas Aravamudan Annual Lectures in Critical Theory
+
+### 2022: Catherine Malabou
+
+{{< figure
+  src="malabou-poster.jpeg"
+  alt="Catherine Malabou visit poster"
+>}}
 
 ### 2019: John Durham Peters
 
@@ -29,4 +39,20 @@ Before the official inauguration of the Srinivas Aravamudan Annual Lecture, the 
 {{< figure
   src="hayles-flyer-final.png"
   alt="N. Katherine Kayles event poster"
+>}}
+
+## Other events
+
+### Lauren McLeod Cramer
+
+{{< figure
+  src="cramer-flyter.jpg"
+  alt="Lauren McLeod Cramer visit poster"
+>}}
+
+### SA Smythe
+
+{{< figure
+  src="smythe-poster.jpg"
+  alt="SA Smythe poster"
 >}}
