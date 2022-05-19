@@ -1,8 +1,9 @@
 ---
 title: "Posters"
-date: 2019-11-16T12:00:00
+date: 2022-04-16T12:00:00
 tags: []
 toc: false
+draft: false
 ---
 Over the years, I have designed posters for department events at Duke. 
 I've made most with Canva (free, not premium). 
