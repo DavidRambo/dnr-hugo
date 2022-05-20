@@ -30,9 +30,9 @@ George Allan refers to this failure as "the Leibnizian transcendental," accordin
 (Note that Allan's is notion of "transcendental" is closer to Badiou's in *Logics of Worlds* than it is to Kant's a priori cognition of the guarantee that experience accord with phenomena. A "transcendental" is a  "function of functions" (217).)
 
 Allan's third "transcendental function" pertains to transition and enduring objects, which are made possible in part by the forms shared by a multitude of subjective aims.
-These propose more than aesthetic unification, or the transmutation of a mulitiplicity of actual occasions into a nexus.
+These propose more than aesthetic unification, or the transmutation of a multiplicity of actual occasions into a nexus.
 
-{{<blockquote}}
+{{< blockquote >}}
 "The Hobbesian function enlarges this orientation so that the good the occasion seeks is not found exclusively in the intensity of its own immediate achievement combined with the anticipated future relevance of that intensity, as Subjective Intensity demands. It is found as well in the value a number of occasions have collectively actualized for it and the value its actualization has for what a number of occasions  might henceforth actualize" (219–220).
 {{< /blockquote >}}
 

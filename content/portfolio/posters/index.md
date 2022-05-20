@@ -15,7 +15,7 @@ Packing it all in while maintaining a pleasing amount of the backdrop image is a
 ### 2022: Catherine Malabou
 
 {{< figure
-  src="malabou-poster.jpeg"
+  src="malabou-poster.jpg"
   alt="Catherine Malabou visit poster"
 >}}
 
@@ -47,7 +47,7 @@ Before the official inauguration of the Srinivas Aravamudan Annual Lecture, the 
 ### Lauren McLeod Cramer
 
 {{< figure
-  src="cramer-flyter.jpg"
+  src="cramer-flyer.jpg"
   alt="Lauren McLeod Cramer visit poster"
 >}}
 
