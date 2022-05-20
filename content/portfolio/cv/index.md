@@ -95,12 +95,9 @@ Summer Research Grant, Graduate School, Duke University, 2014.
 
 ## Teaching
 
-### Future Courses
-"Play It Again: Recursive Forms and Narrative," Global Cultural Studies Major in the Program in Literature, Fall 2021.
-
+### Instructor
 "Whitehead with Contemporary Theory," Graduate Seminar in the Program in Literature, co-instructor with Mark Hansen, Fall 2021.
 
-### Instructor
 "Being Artificial," Global Cultural Studies Major in the Program in Literature, Spring 2021.
 
 “Technics and Galactic Capital,” Global Cultural Studies Major in the Program in Literature, Spring 2016.
