@@ -5,7 +5,7 @@ draft: false
 ---
 
 Zakiyyah Jackson occasionally vitiates universalism under the guise of &ldquo;a racially hierarchized universal humanity&rdquo; (*Becoming Human* 18).
-However, as is so often the case in contemporary theory critical of liberalism, her tacit definition of the universal is an abstract type, which is not in fact worthy of the name.
+However, as is so often the case in contemporary theory critical of liberal humanism, her tacit definition of the universal is an abstract type, which is unworthy of the name.
 Jackson parenthetically identifies the &ldquo;international&rdquo; quality of &ldquo;legislation drafted by exponents from more powerful and stable nations&rdquo; as &ldquo;(universalist)&rdquo; (16).
 Liberal humanism&rsquo;s purported universality is in fact nothing more than its hegemonic normativity—and Jackson also writes of antiblack Western &ldquo;normative humanity&rdquo; (19).
 
@@ -39,7 +39,8 @@ I agree with Jackson that
 > &ldquo;blackness is not so much derived from a discourse on nonhuman animals—rather the discourse on &lsquo;the animal&rsquo; is formed through enslavement and the colonial encounter encompassing both human and nonhuman forms of life.
 > Discourses on nonhuman animals and animalized humans are forged through each other; they reflect and refract each other for the purposes of producing an idealized and teleological conception of &lsquo;the human&rsquo;&rdquo; (23).
 
-Barbara Fields further explains this relation (&ldquo;Slavery, Race, and Ideology in the USA&rdquo;).
-The animalization of humans at the level of bio-racist taxonomies was an intellectual cheat effected in order to cover over the contradiction between Enlightment ideals of equality and liberty and slavery.
+And again: "We misdiagnose the problems of Western globalizing humanism when we take universalism at its word, seeing its failures as simply a problem of implementation or procedure" (34).
+Barbara Fields further explains this relation of humanity and animality (&ldquo;Slavery, Race, and Ideology in the USA&rdquo;).
+The animalization of humans at the level of bio-racist taxonomies was an intellectual cheat effected in order to cover over the contradiction between slavery and such Enlightment ideals as equality and liberty.
 &ldquo;The human&rdquo; names not a universal but its defeat.
 
