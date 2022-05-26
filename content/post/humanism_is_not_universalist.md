@@ -1,6 +1,7 @@
 ---
 title: "Humanism Is Not a Universalism"
 date: 2022-05-24
+tags: ["black studies", "liberalism", "humanism", "universality", "Badiou"]
 draft: false
 ---
 
