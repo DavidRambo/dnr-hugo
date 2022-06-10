@@ -11,7 +11,7 @@ Jackson parenthetically identifies the &ldquo;international&rdquo; quality of &l
 Liberal humanism&rsquo;s purported universality is in fact nothing more than its hegemonic normativity—and Jackson also writes of antiblack Western &ldquo;normative humanity&rdquo; (19).
 
 There is more to this cross-examination than wanting to point out the contradiction of a &ldquo;hierarchized universal humanity.&rdquo;
-I think, with Todd McGowan, that the solution to liberal humanism&rsquo;s antiblack abjection-animalization involves universality.
+I think, with Todd McGowan, that the counter to liberal humanism&rsquo;s antiblack abjection-animalization involves universality.
 If one rejects universality, then what is left other than the liberal respect for particulars?
 But understanding how this is possible without contradicting Jackson&rsquo;s incisive critique of animal studies, humanism, posthumanism, and other contemporary discourses critical of anthropocentrism and the human-animal binary, requires that the false universalism of an abstract umbrella category be replaced by a universality that is concrete (Hegel) and singular (Badiou).
 A concrete universal cannot be instantiated.
@@ -19,7 +19,7 @@ It is not an abstract kind that can be inferred from its finite manifestations.
 No particular can be equal to a universal.
 It is, to invoke Badiou, an infinite Idea, a resource for the particular&rsquo;s destruction and supercession by, in the case of a political Truth, more egalitarian existence.
 Why an &ldquo;Idea&rdquo;?
-Because its &ldquo;proper medium is thought&rdquo;—it exceeds the empirical index of past experience even as it begins from it (Badiou, [&ldquo;Eight Theses&rdquo;](https://www.lacan.com/badeight.htm).
+Because its &ldquo;proper medium is thought&rdquo;—it exceeds the empirical index of past experience even as it begins from it (Badiou, [&ldquo;Eight Theses&rdquo;](https://www.lacan.com/badeight.htm)).
 The universal is &ldquo;subtracted from all identitarian predicates&rdquo; even as it proceeds via them.
 
 No individual human &ldquo;is human&rdquo; in the sense of being equal to the universal type &ldquo;the human.&rdquo;
