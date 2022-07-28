@@ -26,8 +26,8 @@ Such is the significance of the Category of Subjective Intensity: the intensity 
 The superject urges its consequent entities to fulfill its own subjective aim as their own.
 Of course, since this is the case for all superjective occasions composing the novelty's actual world, these superjective intensities must be balanced into a novel subjective aim.
 That is, they fail to fulfill their ideal aim, they exhaust what resources their actual world provides to do so.
-George Allan refers to this failure as "the Leibnizian transcendental," according to which Creativity's vector character (the "Aristotelian transcendental" pertaining to its processual character) "be toward the best available outcome, that its aim be to actualize the best among those outcomes that are possible for it" (Allan 218).
-(Note that Allan's is notion of "transcendental" is closer to Badiou's in *Logics of Worlds* than it is to Kant's a priori cognition of the guarantee that experience accord with phenomena. A "transcendental" is a  "function of functions" (217).)
+George Allan refers to this failure as "the Leibnizian transcendental," according to which Creativity's vector character "be toward the best available outcome, that its aim be to actualize the best among those outcomes that are possible for it" (Allan 218).
+(Note that Allan's is notion of "transcendental" is closer to Badiou's in *Logics of Worlds* than it is to Kant's a priori cognition of the guarantee that experience accord with phenomena. A "transcendental" is a  "function of functions" (217). The "Aristotelian transcendental" pertains to the processual character of actuality.)
 
 Allan's third "transcendental function" pertains to transition and enduring objects, which are made possible in part by the forms shared by a multitude of subjective aims.
 These propose more than aesthetic unification, or the transmutation of a multiplicity of actual occasions into a nexus.
