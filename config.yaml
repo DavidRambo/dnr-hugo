@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: A blog about the philosophy and aesthetics of creative technologies.
+  description: Process Philosophy, Aesthetics, Technology Studies
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
