@@ -5,9 +5,14 @@ toc: false
 ---
 # DAVID RAMBO, PhD
 
-Trained to analyze how users and communities experience written, visual, and interactive media. Excellent writer, reviewer, and communicator in both individual and team settings. Experienced with pursuing multiple research projects simultaneously. Avid problem solver, eager collaborator, and DIY enthusiast.
+Trained to analyze how users and communities experience written, visual, and interactive media. 
+Excellent writer, reviewer, and communicator in both individual and team settings. 
+Experienced with pursuing multiple research projects simultaneously. 
+Avid problem solver, eager collaborator, and DIY enthusiast.
 
 ## Work Experience
+* Postdoctoral Associate in Media Theory, Program in Literature, Duke University --- September 2020 to August 2023
+
 * Researcher --- Jury-X, Chapel Hill, NC --- Nov. 2019 to Mar. 2020
   * Investigated and assessed suitability of potential jurors for client attorneys in real time using online databases and social media.
   * Promoted to monitoring court transcripts and writing in-depth juror profiles.
