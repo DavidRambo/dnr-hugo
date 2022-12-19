@@ -12,6 +12,8 @@ Avid problem solver, eager collaborator, and DIY enthusiast.
 
 ## Work Experience
 * Postdoctoral Associate in Media Theory, Program in Literature, Duke University --- September 2020 to August 2023
+  * Assisted department chair with research and writing projects.
+  * Designed and taught two seminars: one graduate and one undergraduate.
 
 * Researcher --- Jury-X, Chapel Hill, NC --- Nov. 2019 to Mar. 2020
   * Investigated and assessed suitability of potential jurors for client attorneys in real time using online databases and social media.
