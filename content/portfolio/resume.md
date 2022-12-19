@@ -78,9 +78,9 @@ Trained to analyze how users and communities experience written, visual, and int
 ## Academic Publications
 ### Peer-Reviewed Journal Articles
 
-* “Building, Coding, Typing,” under review at *Computational Culture* (in revision for publication in Fall 2020).
+* “Building, Coding, Typing: Defining Technological Individuation through Custom Mechanical Keyboard Culture,” *Computational Culture* 8 (2021): {{< link uli="http://computationalculture.net/building-coding-typing/">}}Link{{< /link >}}.
 
-* “Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* (accepted September 2019).
+* “Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* 42.3 (Fall 2020): 356--384.
 
 * “Interstitial Life and the Banality of Novelty in Whitehead’s *Process and Reality*,” *Process Studies* 47.1-2 (2018): 26-46.
 
