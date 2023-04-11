@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2020-03-01
+date: 2023-04-11
 ---
 ## Education
 
@@ -12,7 +12,7 @@ date: 2020-03-01
 
 ## Professional Experience
 
-Postdoctoral Associate in the Program in Literature, Duke University, 2020–2022.
+Postdoctoral Associate in the Program in Literature, Duke University, 2020–2023.
 
 <hr>
 
@@ -33,7 +33,7 @@ Postdoctoral Associate in the Program in Literature, Duke University, 2020–202
 “Analogizing Data: The Real Subsumption of Manifest Destiny by Capital,” *Hyperrhiz* 13 (November 2015): {{< link uri="http://hyperrhiz.io/hyperrhiz13/sensors-data-bodies/manifest-data-rambo.html" >}}Link{{< /link >}}.
 
 ### Book Chapters
-"Technology Beyond the Enduring Object: Revising Technicity through Whitehead and N. K. Jemisin's 'Walking Awake'" in *Negentropy and the Future of Exteriorization*, edited by Mark B. N. Hansen and Bryan Norton (forthcoming).
+"Technology Beyond the Enduring Object" in *Negentropy and the Future of Exteriorization*, edited by Mark B. N. Hansen and Bryan Norton (forthcoming).
 
 “The Error-Image: On the Technics of Memory,” *Post-Cinema: Theorizing 21st-Century Film*, eds. Shane Denson and Julia Leyda, Falmer: REFRAME Books (2016):
 {{< link uri="http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/" >}}Link{{< /link >}}.

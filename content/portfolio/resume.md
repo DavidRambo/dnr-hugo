@@ -97,8 +97,10 @@ Avid problem solver, eager collaborator, and DIY enthusiast.
 http://hyperrhiz.io/hyperrhiz13/sensors-data-bodies/manifest-data-rambo.html{{< /link >}}.
 
 ### Book Collections
-* “The Error-Image: On the Technics of Memory,” Post-Cinema: Theorizing 21st-Century Film, eds. Shane Denson and Julia Leyda, Falmer: REFRAME Books (2016): {{< link uri="http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/">}}http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/{{< /link >}}.
+* "Technology Beyond the Enduring Object," *Negentropy and the Future of Exteriorization*, eds. Mark B. N. Hansen and Bryan Norton (forthcoming).
 
-* “Organisms in Reticula,” Network_Ecologies, eds. Amanda Starling Gould and Florian Wiencek, (2016): {{< link uri="http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula" >}}http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula{{< /link >}}.
+* “The Error-Image: On the Technics of Memory,” *Post-Cinema: Theorizing 21st-Century Film*, eds. Shane Denson and Julia Leyda, Falmer: REFRAME Books (2016): {{< link uri="http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/">}}http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/{{< /link >}}.
 
-* Response to Rebecca Norton, “Displacement Paths,” Network_Ecologies, eds. Amanda Starling Gould and Florian Wiencek, (August 2016): {{< link uri="http://scalar.usc.edu/works/network-ecologies/displacement-paths" >}}http://scalar.usc.edu/works/network-ecologies/displacement-paths{{< /link >}}.
+* “Organisms in Reticula,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (2016): {{< link uri="http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula" >}}http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula{{< /link >}}.
+
+* Response to Rebecca Norton, “Displacement Paths,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (August 2016): {{< link uri="http://scalar.usc.edu/works/network-ecologies/displacement-paths" >}}http://scalar.usc.edu/works/network-ecologies/displacement-paths{{< /link >}}.
