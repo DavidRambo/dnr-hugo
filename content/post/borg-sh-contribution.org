@@ -1,6 +1,6 @@
 #+title: Contributing a simple feature to BorgBackup
 #+date: 2023-05-30T18:36:23-07:00
-#+tags[]: ["Python", "shell", "regex", "parsing", "opensource"]
+#+tags[]: Python, shell, regex, parsing, opensource
 #+draft: false
 
 * Finding an issue
