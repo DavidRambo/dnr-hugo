@@ -54,7 +54,7 @@ Avid problem solver, eager collaborator, and DIY enthusiast.
 * BA, History, with honors, 2011
 
 ## Professional Service and Collaborations
-* Review Board Member --- *Angelaki: Journal of the Theoretical Humanities* --- December 2017 to Present
+* Review Board Member --- *Angelaki: Journal of the Theoretical Humanities* --- December 2017 to May 2023
   * Write reports on article submissions regarding suitability for publication.
   * Assess argument, sources, and overall writing quality.
 * Member --- S-1 Speculative Sensation Lab, Duke University --- Fall 2012 to Present

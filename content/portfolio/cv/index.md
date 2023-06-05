@@ -134,7 +134,7 @@ Invited Co-instructor, “Reading Whitehead’s _Process and Reality_" graduate 
 
 ## Service
 ### Professional
-Review Board Member, _Angelaki: Journal of the Theoretical Humanities_, December 2017 to present.
+Review Board Member, _Angelaki: Journal of the Theoretical Humanities_, December 2017 to May 2023.
 
 Chair, “Microbe Futures 3: Duke's Speculative Sensation Lab, Part 1” 33rd Annual Conference of the Society for Literature, Science, and the Arts , Irvine, CA, November 9–10, 2019.
 
