@@ -253,4 +253,4 @@ The ~render_template~ function call in turn passes those flowers along as a list
 (This can be confirmed within the ~flask shell~ environment, where ~type(flowers.items[0])~ returns ~<class 'flower_store.models.Flower'>~.)
 * Next up
 That was by no means exhaustive, but I hope it provides some helpful explanation of how the lessons from popular Flask tutorials can be tweaked into new form.
-Next, I'll be going over how I implemented search.
+Next, I'll be going over [[{{< ref "building-flower-catalog-pt2" >}}][how I implemented search]].
