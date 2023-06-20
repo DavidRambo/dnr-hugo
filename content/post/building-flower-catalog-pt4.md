@@ -1,5 +1,5 @@
 ---
-title: "Building a Flower Shop with Flask, Part 4"
+title: "Building a Flower Catalog with Flask, Part 4"
 date: 2023-06-16T11:05:45-07:00
 tags: ["Flask", "Python", "web", "sql", "tailwindcss"]
 draft: false
