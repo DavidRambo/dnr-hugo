@@ -57,66 +57,130 @@ fields to add to the Flower table. I also use the Flask-SQLAlchemy
 extension to work with SQLAlchemy\'s ORM within Flask.
 
 With the database setup, I need to populate it with some data for
-playing around. I have a pair of functions defined in `dev_fns.py` at
-the root level of the project directory. These are both made available
-through the Flask `app_context` through the `run.py` script, which gets
-run when executing `flask shell` at the command line:
+development. For this, I have a pair of functions defined in `cli.py`.
+These are both made available through the application's `run.py` script
+at the root directory of the project:
 
 ```python
-import dev_fns
-from flower_store import create_app, db
+from flower_store import cli, create_app, db
 from flower_store.models import Flower, User
 
 app = create_app()
+cli.register(app)
 
 @app.shell_context_processor
 def make_shell_context():
     """When the `flask shell` command runs, it invokes this function and
     registers the dictionary of items returned. Thus, the database instance
     'db' can be accessed in the shell session as 'db', and likewise for the
-    SQLAlchemy model 'Flower'.
-
-    To run the dev functions in the shell, call them:
-        - popf()
-        - ca()
+    SQLAlchemy models 'Flower' and 'User'.
     """
     return {
         "db": db,
         "Flower": Flower,
         "User": User,
-        "popf": dev_fns.populate_flowers,
-        "ca": dev_fns.create_admin,
     }
 ```
 
-As the docstring explains, all I need to do to create some dummy data is
-to enter the interactive environment via `flask shell` and then to run
-`popf()`. Here\'s that function:
+For this to work, the `FLASK_APP` environment variable needs to be set to
+`run.py`. This is done with a line in `.flaskenv` at the project's root
+directory.
+
+Any CLI commands I set up using `click` (one of Flask's dependencies) can
+now be run as secondary commands with `flask`.
 
 ```python
-def populate_flowers():
-    """Populates the database with Flowers for the sake of development."""
+import os
+from random import randint, shuffle
 
-    flowers = [
-        "A-Peeling",
-        "Bride To Be",
-        "Café au Lait",
-        # ...
-    ]
-    shuffle(flowers)
+from flask import current_app
 
-    # Make sure `flower` table exists
-    if not db.inspect(db.engine).has_table("flower"):
-        print("Flower table does not exist. Run `flask db upgrade`")
-        return
+from flower_store import db
+from flower_store.models import Flower
 
-    # Clear Flower table
-    Flower.query.delete()
 
-    for flower in flowers:
-        db.session.add(Flower(name=flower, stock=randint(0, 10)))
+def register(app):
+    @app.cli.command("pop-flowers")
+    def populate_flowers():
+        """Populates the database with Flowers for the sake of development."""
+
+        flowers = [
+            "A-Peeling",
+            "Bride To Be",
+            "Café au Lait",
+            "Cheers",
+            "Daddy's Girl",
+            "Diva",
+            "Fluffles",
+            "Foxy Lady",
+            "Ice Tea",
+            "KA's Bella Luna",
+            "KA's Blood Orange",
+            "KA's Boho Peach",
+            "KA's Cloud",
+            "KA's Mocha Jake",
+            "KA's Mocha Maya",
+            "L'Ancress",
+            "Lovebug",
+            "Mai Tai",
+            "Maki",
+            "Marshmallow",
+            "Maui",
+            "Moonstruck",
+            "Ranunculus",
+            "Snapdragon",
+            "Straw flower",
+            "Tootles",
+        ]
+        shuffle(flowers)
+
+        # Make sure `flower` table exists
+        if not db.inspect(db.engine).has_table("flower"):
+            print("Flower table does not exist. Run `flask db upgrade`")
+            return
+
+        # Clear Flower table
+        Flower.query.delete()
+
+        for flower in flowers:
+            if flower == "Straw flower":
+                db.session.add(
+                    Flower(
+                        name=flower,
+                        stock=randint(0, 10),
+                        image_file="strawflower_edb8f2b8dc93.png",
+                        price=35.00,
+                    )
+                )
+            elif flower == "Ranunculus":
+                db.session.add(
+                    Flower(
+                        name=flower,
+                        stock=randint(0, 10),
+                        image_file="ranunculus_fc5fbcc0f.jpg",
+                        price=35.00,
+                    )
+                )
+            else:
+                db.session.add(
+                    Flower(
+                        name=flower,
+                        stock=randint(0, 10),
+                        price=float(str(randint(1, 35)) + "." + str(randint(0, 99))),
+                    )
+                )
+
+            # Update elasticsearch index.
+            if current_app.elasticsearch:
+                entry = Flower.query.filter_by(name=flower).first()
+                current_app.elasticsearch.index(
+                    index="flower", id=entry.id, document={"name": flower}, timeout=30
+                )
+
         db.session.commit()
 ```
+
+The above can be run at the command line with `flask pop-flowers`.
 
 # Templates
 
@@ -138,11 +202,8 @@ This template serves as a kind of landing page for the actual content.
 Here it is:
 
 ```html
-{% extends "base.html" %}
-{% block header %} Catalog {% endblock header %}
-{%block content %}
-  {% include "results.html" %}
-{% endblock content %}
+{% extends "base.html" %} {% block header %} Catalog {% endblock header %}
+{%block content %} {% include "results.html" %} {% endblock content %}
 ```
 
 It provides some text that the base layout styles as a title for the page.

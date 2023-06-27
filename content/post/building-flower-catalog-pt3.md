@@ -83,28 +83,48 @@ And I have a function I expose to my flask shell environment that
 creates such a user for testing purposes:
 
 ```python
-def create_admin():
-    """Creates an admin user account."""
+# See Part 1 for all imports.
 
-    # Ensure `user` table exists
-    if not db.inspect(db.engine).has_table("user"):
-        print("User table does not exist. Run `flask db upgrade`")
-        return
+from dotenv import load_dotenv
+from flower_store.models import User
 
-    test_admin = User(
-        username="admin",
-        email="test@test.com",
-        is_admin=True,
-    )
-    # Check for existing "admin" user and delete if it exists.
-    user = User.query.filter_by(username=test_admin.username).first()
-    if user:
-        db.session.delete(user)
+def register(app):
+    # ...
 
-    test_admin.set_password("test")
-    db.session.add(test_admin)
-    db.session.commit()
+    @app.cli.command("setup-admin")
+    def setup_admin():
+        """Creates an admin user account."""
+
+        # Ensure `user` table exists
+        if not db.inspect(db.engine).has_table("user"):
+            print("User table does not exist. Run `flask db upgrade`")
+            return
+
+        load_dotenv()
+        admin = os.environ.get("ADMIN")
+        admin_pwd = os.environ.get("ADMIN_PWD")
+
+        if not admin_pwd:
+            print("There is no admin user password in the local environment.")
+            return
+
+        test_admin = User(
+            username=admin,
+            email="davidrambo@mailfence.com",
+            is_admin=True,
+        )
+        # Check for existing "admin" user and delete if it exists.
+        user = User.query.filter_by(username=test_admin.username).first()
+        if user:
+            db.session.delete(user)
+
+        test_admin.set_password(admin_pwd)
+        db.session.add(test_admin)
+        db.session.commit()
 ```
+
+As with the command that populates the flower table, this is run
+via `flask setup-admin`.
 
 Both logging in and out have to be done by entering the appropriate
 routes (\"/login\" and \"/logout\"). Both routes\' view functions are in
@@ -129,9 +149,8 @@ exposes its templates behind the scenes. Here\'s a minimal change I
 made:
 
 ```html
-{% extends 'admin/master.html' %}
-{% block body %}
-  <p>To log out, add "/logout" to the URL.</p>
+{% extends 'admin/master.html' %} {% block body %}
+<p>To log out, add "/logout" to the URL.</p>
 {% endblock body %}
 ```
 
@@ -161,28 +180,28 @@ form, by default, is a text input box, since `Flower.image_file` takes a
 string. This code snippet I arrived at works perfectly. I\'ll break it
 down:
 
--   \"image_file\" names the field in the `Flower` model to be
-    manipulated.
+- \"image_file\" names the field in the `Flower` model to be
+  manipulated.
 
--   `ImageUploadField` levies `Pillow` (a fork of `PIL`, the Python
-    Image Library) to perform image manipulation.
+- `ImageUploadField` levies `Pillow` (a fork of `PIL`, the Python
+  Image Library) to perform image manipulation.
 
--   \"Image\" names the field in the Admin view.
+- \"Image\" names the field in the Admin view.
 
--   base_path is where you want the file to be saved. `IMAGE_PATH` is
-    defined at the module level to get the directory path:
+- base_path is where you want the file to be saved. `IMAGE_PATH` is
+  defined at the module level to get the directory path:
 
-    ```python
-    IMAGE_PATH = os.path.join(os.path.dirname(__file__), "static/flower_imgs")
-    ```
+  ```python
+  IMAGE_PATH = os.path.join(os.path.dirname(__file__), "static/flower_imgs")
+  ```
 
--   namegen defines how the file name is to be generated. I wrote a
-    little function called `image_rename` in
-    [utils.py](https://github.com/DavidRambo/flower-store/blob/main/src/flower_store/utils.py).
-    It takes a tip from Corey Schafer\'s tutorial and adds some hex
-    characters to the name provided by the user. It also ensures that
-    the length is within the limit imposed by the `Flower` model\'s
-    `image_file` field (30).
+- namegen defines how the file name is to be generated. I wrote a
+  little function called `image_rename` in
+  [utils.py](https://github.com/DavidRambo/flower-store/blob/main/src/flower_store/utils.py).
+  It takes a tip from Corey Schafer\'s tutorial and adds some hex
+  characters to the name provided by the user. It also ensures that
+  the length is within the limit imposed by the `Flower` model\'s
+  `image_file` field (30).
 
 # Automating asset deletion
 
