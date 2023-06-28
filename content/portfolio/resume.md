@@ -15,7 +15,7 @@ Experienced with pursuing multiple research projects simultaneously.
 
 #### Flower Catalog
 
-[flowers.davidrambo.org](flowers.davidrambo.org)
+{{< link uri="https://flowers.davidrambo.org" >}}flowers.davidrambo.org{{< /link >}}
 
 - Built a full-stack responsive website for cataloging, searching, and selling flowers (Flask, SQLAlchemy, elasticsearch, TailwindCSS, HTMX, nginx, gunicorn).
 
