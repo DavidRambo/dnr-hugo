@@ -15,20 +15,18 @@ Experienced with pursuing multiple research projects simultaneously.
 
 #### Flower Catalog
 
-{{< link uri="https://flowers.davidrambo.org" >}}flowers.davidrambo.org{{< /link >}}
-
+- {{< link uri="https://flowers.davidrambo.org" >}}flowers.davidrambo.org{{< /link >}}
 - Built a full-stack responsive website for cataloging, searching, and selling flowers (Flask, SQLAlchemy, elasticsearch, TailwindCSS, HTMX, nginx, gunicorn).
 
 #### Open-Source Contributions
 
-- Borg backup: Implemented conversion of shell-style alternatives to regular expressions including tests and documentation ([github.com/borgbackup/borg](github.com/borgbackup/borg) PR #7619).
-- [tabout.nvim](https://github.com/abecodes/tabout.nvim): Updated function calls for neovim plugin (PR #48).
-- [QMK Firmware](https://github.com/qmk/qmk_firmware): Contribute keymaps for open-source keyboard firmware via GitHub pull requests.
+- {{< link uri="https://www.github.com/borgbackup/borg" >}}Borg backup{{< /link >}}: Implemented conversion of shell-style alternatives to regular expressions including tests and documentation (PR #7619).
+- {{< link uri="https://github.com/abecodes/tabout.nvim" >}}tabout.nvim{{< /link >}}: Updated function calls for neovim plugin (PR #48).
+- {{< link uri="https://github.com/qmk/qmk_firmware" >}}QMK Firmware{{< /link >}}: Contribute keymaps for open-source keyboard firmware via GitHub pull requests.
 
 #### Geographical Distribution of Endangered Languages
 
-[https://github.com/DavidRambo/endangered_languages_geography](https://github.com/DavidRambo/endangered_languages_geography)
-
+- {{< link uri="https://github.com/DavidRambo/endangered_languages_geography" >}}https://github.com/DavidRambo/endangered_languages_geography{{< /link >}}
 - Analysis and visualization of the geographical distribution of endangered and extinct languages using a dataset on kaggle.com (Python, Pandas, Numpy, Matplotlib, Jupyter).
 
 ## Work Experience
