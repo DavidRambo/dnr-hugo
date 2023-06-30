@@ -83,6 +83,12 @@ Experienced with pursuing multiple research projects simultaneously.
   - Elliott Gilbert Memorial Prize for Best Honors Thesis, June 2011
 - BA, History, with honors, 2011
 
+### Other relevant training
+
+- UC Davis, Continuing and Professional Education --- 2022
+  - Data Preparation, Modeling and Visualization with Python
+  - Python for Data Analysis
+
 ## Professional Service and Collaborations
 
 - Review Board Member --- _Angelaki: Journal of the Theoretical Humanities_ --- December 2017 to May 2023
