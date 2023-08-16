@@ -1,15 +1,8 @@
 ---
 title: "Résumé"
-date: 2020-03-14
+date: 2023-08-15
 toc: false
 ---
-
-# DAVID RAMBO
-
-Backend web developer proficient with Python.
-Trained to analyze how users and communities experience written, visual, and interactive media.
-Excellent writer, reviewer, and communicator in both individual and team settings.
-Experienced with pursuing multiple research projects simultaneously.
 
 ## Development Projects
 
