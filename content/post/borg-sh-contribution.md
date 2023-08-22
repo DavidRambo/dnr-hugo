@@ -126,24 +126,36 @@ it as a key to the dict and set its value to some default that could not
 ever map to a valid closing brace. I chose -1 (later I would change this
 to `None`).
 
-Here\'s the parsing function: {{\< code numbered=\"true\" \>}} from
-queue import LifoQueue
+Here\'s the parsing function:
 
-def parse~braces~(pat: str) -\> dict\[int, int\]: \"\"\"Returns the
-index values of paired curly braces in \`pat\` as a dict mapping.\"\"\"
-curly~q~ = LifoQueue() pairs: dict\[int, int\] = dict()
+```python
+from queue import LifoQueue
 
-for idx, c in enumerate(pat): if c == \"{\": if idx == 0 or pat\[idx -
-1\] != \"\\\\\":
 
-pairs\[idx\] = -1
+def parse_braces(pat: str) -> dict[int, int]:
+    """Returns the index values of paired curly braces in `pat` as a dict mapping."""
+    curly_q = LifoQueue()
+    pairs: dict[int, int] = dict()
 
-curly~q~.put(idx) if c == \"}\" and curly~q~.qsize():
+    for idx, c in enumerate(pat):
+        if c == "{":
+            if idx == 0 or pat[idx - 1] != "\\":
+                # Opening brace is not escaped.
+                # Add to dict
+                pairs[idx] = -1
+                # Add to queue
+                curly_q.put(idx)
+        if c == "}" and curly_q.qsize():
+            # If queue is empty, then cannot close pair.
+            if idx > 0 and pat[idx - 1] != "\\":
+                # Closing brace is not escaped.
+                # Pop off the index of the corresponding opening brace, which
+                # provides the key in the dict of pairs, and set its value.
+                pairs[curly_q.get()] = idx
+    return pairs
+```
 
-if idx \> 0 and pat\[idx - 1\] != \"\\\\\":
-
-pairs\[curly~q~.get()\] = idx return pairs {{\< /code \>}} Ultimately,
-after Thomas Waldmann\'s code review, this would return all valid index
+Ultimately, after Thomas Waldmann\'s code review, this would return all valid index
 pairs as a list of tuples.
 
 # Integrating into Borg
@@ -170,27 +182,41 @@ By contrast, the second approach would integrate the added support
 mostly by running the pattern through a pair of helper functions so that
 all valid braces and commas would be translated prior to the main
 translation logic. This meant chaining the parsing function with a
-special translation function: {{\< code numbered=\"true\" \>}} def
-~translatealternatives~(pat: str) -\> str: \"\"\"Translates a
-shell-style pattern to a regular expression.\"\"\"
+special translation function:
 
-brace~pairs~ = parse~braces~(pat)
+```python
+def _translate_alternatives(pat: str) -> str:
+    """Translates a shell-style pattern to a regular expression."""
+    # Parse pattern for paired braces.
+    # These will be converted to regex groups: {alt1,alt2} -> (alt1|alt2)
+    brace_pairs = parse_braces(pat)
 
-pat~list~ = list(pat) \# Convert to list in order to subscript
-characters.
+    pat_list = list(pat)  # Convert to list in order to subscript characters.
 
-for opening, closing in brace~pairs~.items(): commas = 0 if val == -1:
+    # Convert non-escaped commas within groups to pipes.
+    # Convert paired braces into parentheses, but only if at least one comma is present.
+    # Passing, e.g. "{a\,b}.txt" to the shell expands to "{a,b}.txt", whereas
+    # "{a\,,b}.txt" expands to "a,.txt" and "b.txt"
+    for opening, closing in brace_pairs.items():
+        commas = 0
+        if val == -1:
+            # Skip unpaired opening braces.
+            continue
 
-continue
+        for i in range(opening, closing + 1):
+            if pat_list[i] == ",":
+                if i == opening or pat_list[i - 1] != "\\":
+                    pat_list[i] = "|"
+                    commas += 1
 
-for i in range(opening, closing + 1): if pat~list~\[i\] == \",\": if i
-== opening or pat~list~\[i - 1\] != \"\\\\\": pat~list~\[i\] = \"\|\"
-commas += 1
+        if commas > 0:  # problem here waiting to be discovered
+            pat_list[opening] = "("
+            pat_list[closing] = ")"
 
-if commas \> 0: \# problem here waiting to be discovered
-pat~list~\[opening\] = \"(\" pat~list~\[closing\] = \")\"
+    return "".join(pat_list)
+```
 
-return \"\".join(pat~list~) {{\< /code \>}} (Note that this still isn\'t
+(Note that this still isn\'t
 exactly right. See the section on Testing below.) The outer for loop
 goes through every pair of braces, while the inner for loop checks for
 non-escaped commas. When it finds one, it does two things: it converts
@@ -202,16 +228,25 @@ parentheses.
 
 The only other change required was to add another conditional check
 within Borg\'s existing translate function that would leave the
-parnetheses and pipes alone: {{\< code numbered=\"true\" \>}}
+parnetheses and pipes alone:
 
-def translate(pat): pat = ~translatealternatives~(pat)
+```python
+# borg.helpers.shellpattern
+def translate(pat):
+    pat = _translate_alternatives(pat)
+    # ...
+    n = len(pat)
+    i = 0
+    res = ""
 
-n = len(pat) i = 0 res = \"\"
+    while i < n:
+        # ...
+        elif c in "(|)":
+            if i > 0 and pat[i - 1] != "\\":
+                res += c
+```
 
-while i \< n:
-
-elif c in \"(\|)\": if i \> 0 and pat\[i - 1\] != \"\\\\\": res += c
-{{\< /code \>}} This comes as the penultimate check within a while loop
+This comes as the penultimate check within a while loop
 that iterates over the pattern, right before an else clause that adds
 the character escaped for regex: `res += re.escape(c)`
 
@@ -227,13 +262,20 @@ group, including those within a nested group, would be converted to
 pipes. Why was this a problem? Because the comma counter would remain at
 0 and therefore the nested braces would not get converted to
 parentheses. To fix this, I separated out the counter logic and had it
-check for pipes instead: {{\< code numbered=\"true\" \>}} for i in
-range(opening + 1, closing): \# Convert non-escaped commas to pipes. if
-pat~list~\[i\] == \",\": if i == opening or pat~list~\[i - 1\] !=
-\"\\\\\": pat~list~\[i\] = \"\|\" commas += 1 elif pat~list~\[i\] ==
-\"\|\" and (i == opening or pat~list~\[i - 1\] != \"\\\\\"):
+check for pipes instead:
 
-commas += 1 {{\< /code \>}}
+```python
+for i in range(opening + 1, closing):  # Convert non-escaped commas to pipes.
+    if pat_list[i] == ",":
+        if i == opening or pat_list[i - 1] != "\\":
+            pat_list[i] = "|"
+            commas += 1
+    elif pat_list[i] == "|" and (i == opening or pat_list[i - 1] != "\\"):
+        # Nested groups have their commas converted to pipes when traversing the parent group.
+        # So in order to confirm the presence of a comma in the original, shell-style pattern,
+        # we must also check for a pipe.
+        commas += 1
+```
 
 # Code Review
 
@@ -249,9 +291,7 @@ with shell alternatives in zsh rather than bash. From within the
 pattern (on the right-hand side) would match the string (on the
 left-hand side):
 
-{{\< code \>}}
-(\"bar/foobar\",\[\"\*\*/foo{ba\[!z\]\*,\[0-9\]}\"\])
-{{\< /code \>}}
+`("bar/foobar", ["**/foo{ba[!z]*,[0-9]}"])`
 
 The idea behind this is a directory structure containing at least ./bar/foobar.txt and
 ./bar/foobaz.txt. The pattern matches the former but ignores the latter.
@@ -265,9 +305,13 @@ paired index integers, Waldmann suggested I just return them as such.
 Furthermore, since my specialized translation function was having to
 check for unmatched braces (`if val == -1`), I could exclude those
 mappings from the return statement and then remove that conditional
-logic from the translation function: {{\< code \>}} return \[(opening,
-closing) for opening, closing in pairs.items() if closing is not None\]
-{{\< /code \>}} Note the conditional: I also took up Waldmann\'s
+logic from the translation function:
+
+```python
+return [(opening, closing) for opening, closing in pairs.items() if closing is not None]
+```
+
+Note the conditional: I also took up Waldmann\'s
 suggestion that `None` would be an even clearer representation of an
 unmatched opening brace. Additionally, it\'s good practice to specify
 that a reference `is not None` rather than leaving it as `if closing`,
@@ -283,4 +327,4 @@ commit](https://github.com/borgbackup/borg/commit/021c9b656c2e081e1a8bc1e7b5ecda
 
 This is part of Borg 2, which is in alpha. So once it releases, you\'ll
 be able to specify directories and files using shell-style alternatives
-: )
+\: )
