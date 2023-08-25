@@ -1,6 +1,18 @@
 ---
 title: "Publications"
 ---
+### "Technology Beyond the Enduring Object"
+
+_Negentropy and the Future of Exteriorization_ (Forthcoming, Stanford University Press), edited by Mark B. N. Hansen and Bryan Norton
+
+A contribution to a collection devoted to the late Bernard Stiegler, this book chapter argues for a critical deepening of Stiegler's seminal deconstruction of humanity and technics.
+I analyze the organizing process implied by Stiegler's definition of technics as "organized inorganic matter."
+This development better serves Stiegler's own theory of human-technics co-evolution by getting rid of unquestioned assumptions regarding what technology is and can be.
+Crucially, I show how Stiegler's engagement with fully constituted beings (rather than the prior processes that constitute those beings) undercuts his stated goal of countering the Western philosophical tradition's repression of its own technicity.
+For it leads him to revert his commitment to the intrinsic technicity of human individuation back to a binary coupling of biological human and technical object.
+To explicate this generic organizing process that characterizes technology, I build on Alfred North Whitehead's process philosophy, specifically his speculations on the possibility for originality and what he calls "propositional feeling."
+Technology, when conceived of as a mode of speculative process anterior to empirical objects, is the intentional organization of the background structures of possibility.
+
 ### Building, Coding, Typing: Defining Technological Individuation through Custom Mechanical Keyboard Culture
 
 _Computational Culture_, Issue 8 (July 2021)
@@ -16,6 +28,7 @@ In particular, it criticizes both Simondon’s theory of the "technicity" of tec
 Ultimately, this article contributes to Eric Schatzberg’s work on the technology concept.
 Its formulation of technology as its own individuation intervenes between predominant media theories that rely on a either a paradigm of human-tool prosthesis or the materiality of nonhuman actors to explain the nature of technology. 
 
+<hr>
 
 ### Contact Traces: On the Creative Technology of Videogame Gore
 

@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "CV (academic)"
 date: 2023-04-11
 ---
 ## Education
@@ -17,9 +17,6 @@ Postdoctoral Associate in the Program in Literature, Duke University, 2020–202
 <hr>
 
 ## Publications
-
-### Monographs
-*Inventing Media*. Manuscript in Preparation
 
 ### Peer-Reviewed Articles
 "Building, Coding, Typing: Defining Technological Individuation through Custom Mechanical Keyboard Culture," *Computational Culture* 8 (2021):{{< link uri="http://computationalculture.net/building-coding-typing/" >}}Link{{< /link>}}.

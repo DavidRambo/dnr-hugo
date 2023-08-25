@@ -4,29 +4,16 @@ date: 2023-08-15
 toc: false
 ---
 
-## Development Projects
+## Objective
 
-#### Flower Catalog
-
-- {{< link uri="https://flowers.davidrambo.org" >}}flowers.davidrambo.org{{< /link >}}
-- Built a full-stack responsive website for cataloging, searching, and selling flowers (Flask, SQLAlchemy, elasticsearch, TailwindCSS, HTMX, nginx, gunicorn).
-
-#### Open-Source Contributions
-
-- {{< link uri="https://www.github.com/borgbackup/borg" >}}Borg backup{{< /link >}}: Implemented conversion of shell-style alternatives to regular expressions including tests and documentation (PR #7619).
-- {{< link uri="https://github.com/abecodes/tabout.nvim" >}}tabout.nvim{{< /link >}}: Updated function calls for neovim plugin (PR #48).
-- {{< link uri="https://github.com/qmk/qmk_firmware" >}}QMK Firmware{{< /link >}}: Contribute keymaps for open-source keyboard firmware via GitHub pull requests.
-
-#### Geographical Distribution of Endangered Languages
-
-- {{< link uri="https://github.com/DavidRambo/endangered_languages_geography" >}}https://github.com/DavidRambo/endangered_languages_geography{{< /link >}}
-- Analysis and visualization of the geographical distribution of endangered and extinct languages using a dataset on kaggle.com (Python, Pandas, Numpy, Matplotlib, Jupyter).
+Continue to gain experience and education in software engineering while levying a decade's experience with academic research, writing, and editing to help businesses document and integrate the optimal computing tools for their needs.
 
 ## Work Experience
 
 - Postdoctoral Associate in Media Theory, Program in Literature, Duke University --- September 2020 to August 2023
 
-  - Assisted department chair with research and writing projects.
+  - Assisted department chair Dr. Mark Hansen with research and writing projects.
+  - Published two peer-reviewed journal articles and one book chapter.
   - Designed and taught two seminars: one graduate and one undergraduate.
 
 - Researcher --- Jury-X, Chapel Hill, NC --- Nov. 2019 to Mar. 2020
@@ -63,6 +50,26 @@ toc: false
   - Coordinated scheduling for supervising attorney, depositions, court dates, and plaintiff doctor appointments.
   - Maintained timely correspondence with clients, plaintiff attorneys, and judges.
 
+### Open-Source Contributions
+
+- {{< link uri="https://www.github.com/borgbackup/borg" >}}Borg backup{{< /link >}}: Implemented conversion of shell-style alternatives to regular expressions including tests and documentation (PR #7619).
+- {{< link uri="https://github.com/abecodes/tabout.nvim" >}}tabout.nvim{{< /link >}}: Updated function calls for neovim plugin (PR #48).
+- {{< link uri="https://github.com/qmk/qmk_firmware" >}}QMK Firmware{{< /link >}}: Contribute keymaps for open-source keyboard firmware via GitHub pull requests.
+
+## Personal Development Projects
+
+#### {{< link uri="https://flowers.davidrambo.org" >}}Flower Catalog{{< /link >}}
+- Built a full-stack responsive website for cataloging, searching, and selling flowers (Flask, SQLAlchemy, elasticsearch, TailwindCSS, HTMX, nginx, gunicorn).
+
+#### {{< link uri="https://www.github.com/DavidRambo/gitlepy" >}}Gitlepy{{< /link >}}
+
+- Simple version control system built following test-driven development (Python, Click, pytest, mypy).
+
+#### Geographical Distribution of Endangered Languages
+
+- {{< link uri="https://github.com/DavidRambo/endangered_languages_geography" >}}https://github.com/DavidRambo/endangered_languages_geography{{< /link >}}
+- Analysis and visualization of the geographical distribution of endangered and extinct languages using a dataset on kaggle.com (Python, Pandas, Numpy, Matplotlib, Jupyter).
+
 ## Education
 
 ### Duke University
@@ -78,6 +85,8 @@ toc: false
 
 ### Other relevant training
 
+- Sacramento City College --- 2023
+  - Algorithm Design and Implementation (CISP 301)
 - UC Davis, Continuing and Professional Education --- 2022
   - Data Preparation, Modeling and Visualization with Python
   - Python for Data Analysis
@@ -85,14 +94,12 @@ toc: false
 ## Professional Service and Collaborations
 
 - Review Board Member --- _Angelaki: Journal of the Theoretical Humanities_ --- December 2017 to May 2023
-  - Write reports on article submissions regarding suitability for publication.
-  - Assess argument, sources, and overall writing quality.
-- Member --- S-1 Speculative Sensation Lab, Duke University --- Fall 2012 to Present
+  - Wrote reports on article submissions assessing suitability for publication.
+- Member --- S-1 Speculative Sensation Lab, Duke University --- Fall 2012 to Fall 2019
   - Collaborate on artistic projects and critical writing with faculty, graduate students, and visiting scholars.
-  - “Networked Synaesthesia” — Conceived arduino-based, multi-sensory, multiplayer hack of Super Mario. Managed an eight-member team in project’s development and performance.
+  - {{< link uri="https://s-1lab.org/project/network-synaesthesia/">}}Networked Synaesthesia{{< /link >}} — Conceived arduino-based, multi-sensory, multiplayer hack of Super Mario. Managed an eight-member team in project’s development and performance.
 - Panel Organizer and Chair at Annual Conferences of the Society for Literature, Science, and the Arts — 2015, ‘17, ‘19.
-- Delivered a dozen conference presentations as well as numerous guest lectures.
-  - For a full list, please see my CV.
+- Delivered a dozen conference presentations as well as numerous guest lectures. For a full list, please see my CV.
 - “Teaching and Learning in the Humanities” Intern at the National Humanities Center, Durham NC --- June--July 2017
   - Collaborated with graduate students and local public high school teachers to produce modular lesson plans.
 
@@ -117,7 +124,7 @@ toc: false
 
 ### Peer-Reviewed Journal Articles
 
-- “Building, Coding, Typing: Defining Technological Individuation through Custom Mechanical Keyboard Culture,” _Computational Culture_ 8 (2021): {{< link uli="http://computationalculture.net/building-coding-typing/">}}Link{{< /link >}}.
+- “Building, Coding, Typing: Defining Technological Individuation through Custom Mechanical Keyboard Culture,” _Computational Culture_ 8 (2021): {{< link uri="http://computationalculture.net/building-coding-typing/">}}Link{{< /link >}}.
 
 - “Contact Traces: On the Creative Technology of Videogame Gore,” _Discourse: Journal for Theoretical Studies in Media and Culture_ 42.3 (Fall 2020): 356--384.
 
@@ -130,7 +137,7 @@ toc: false
 
 ### Essays in Book Collections
 
-- "Technology Beyond the Enduring Object," _Negentropy and the Future of Exteriorization_, eds. Mark B. N. Hansen and Bryan Norton (forthcoming with Stanford University Press).
+- "Technology Beyond the Enduring Object," _Negentropy and the Future of Exteriorization_, eds. Mark B. N. Hansen and Bryan Norton (forthcoming Stanford University Press).
 
 - “The Error-Image: On the Technics of Memory,” _Post-Cinema: Theorizing 21st-Century Film_, eds. Shane Denson and Julia Leyda, Falmer: REFRAME Books (2016): {{< link uri="http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/">}}http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/{{< /link >}}.
 
