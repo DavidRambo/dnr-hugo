@@ -1,14 +1,36 @@
 ---
 title: "Résumé"
-date: 2023-08-15
+date: 2024-10-13
 toc: false
 ---
 
-## Objective
+## Education
 
-Continue to gain experience and education in software engineering while levying a decade's experience with academic research, writing, and editing to help businesses document and integrate the optimal computing tools for their needs.
+### Oregon State University
+
+- B.S., Computer Science, expected December 2025.
+
+### Duke University
+
+- Ph.D., Graduate Program in Literature, 2018.
+  - Dissertation argues for an original interpretation of the co-evolution of humans and
+    tools. Synthesizes philosophies of science and technology with analyses of pop
+    cultural media including _Dungeons & Dragons_, electric guitar effects pedals,
+    astrophotography, and videogame graphics.
+
+### University of California, Davis
+
+- BA, English, with highest honors, 2011
+  - Elliott Gilbert Memorial Prize for Best Honors Thesis, June 2011
+- BA, History, with honors, 2011
 
 ## Work Experience
+
+- Technical Communications Specialist, Nuzzle Technologies, Inc. --- September 2023 to November 2023
+
+  - Analyzed best practices in veterinary-client communications.
+  - Synthesized findings into clear, concise takeaways for customers.
+  - Counseled coworkers on empirical research pertinent to product development.
 
 - Postdoctoral Associate in Media Theory, Program in Literature, Duke University --- September 2020 to August 2023
 
@@ -59,6 +81,7 @@ Continue to gain experience and education in software engineering while levying 
 ## Personal Development Projects
 
 #### {{< link uri="https://flowers.davidrambo.org" >}}Flower Catalog{{< /link >}}
+
 - Built a full-stack responsive website for cataloging, searching, and selling flowers (Flask, SQLAlchemy, elasticsearch, TailwindCSS, HTMX, nginx, gunicorn).
 
 #### {{< link uri="https://www.github.com/DavidRambo/gitlepy" >}}Gitlepy{{< /link >}}
@@ -69,27 +92,6 @@ Continue to gain experience and education in software engineering while levying 
 
 - {{< link uri="https://github.com/DavidRambo/endangered_languages_geography" >}}https://github.com/DavidRambo/endangered_languages_geography{{< /link >}}
 - Analysis and visualization of the geographical distribution of endangered and extinct languages using a dataset on kaggle.com (Python, Pandas, Numpy, Matplotlib, Jupyter).
-
-## Education
-
-### Duke University
-
-- Ph.D., Graduate Program in Literature, 2018.
-  - Dissertation argues for an original interpretation of the co-evolution of humans and tools. Synthesizes philosophies of science and technology with analyses of pop cultural media including _Dungeons & Dragons_, electric guitar effects pedals, astrophotography, and videogame graphics.
-
-### University of California, Davis
-
-- BA, English, with highest honors, 2011
-  - Elliott Gilbert Memorial Prize for Best Honors Thesis, June 2011
-- BA, History, with honors, 2011
-
-### Other relevant training
-
-- Sacramento City College --- 2023
-  - Algorithm Design and Implementation (CISP 301)
-- UC Davis, Continuing and Professional Education --- 2022
-  - Data Preparation, Modeling and Visualization with Python
-  - Python for Data Analysis
 
 ## Professional Service and Collaborations
 
