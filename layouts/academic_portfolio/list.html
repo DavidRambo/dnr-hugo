@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <main id="main">
+    <h1>{{ .Title }}</h1>
+    <ul class="patterns-list">
+    {{ range .Pages.ByTitle }}
+      <li>
+        <h2>
+          <a href="{{ .Permalink }}">
+            {{ .Title }}
+          </a>
+        </h2>
+      </li>        
+    {{ end }}
+    </ul>
+  </main>
+{{ end }}
