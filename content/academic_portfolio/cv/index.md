@@ -1,7 +1,8 @@
 ---
-title: "CV (academic)"
+title: "CV"
 date: 2023-04-11
 ---
+
 ## Education
 
 **PhD**, Graduate Program in Literature, Duke University, 2018.
@@ -19,31 +20,34 @@ Postdoctoral Associate in the Program in Literature, Duke University, 2020–202
 ## Publications
 
 ### Peer-Reviewed Articles
-"Building, Coding, Typing: Defining Technological Individuation through Custom Mechanical Keyboard Culture," *Computational Culture* 8 (2021):{{< link uri="http://computationalculture.net/building-coding-typing/" >}}Link{{< /link>}}.
 
-“Contact Traces: On the Creative Technology of Videogame Gore,” *Discourse: Journal for Theoretical Studies in Media and Culture* 42.3 (Fall 2020): 356–384.
+"Building, Coding, Typing: Defining Technological Individuation through Custom Mechanical Keyboard Culture," _Computational Culture_ 8 (2021):{{< link uri="http://computationalculture.net/building-coding-typing/" >}}Link{{< /link>}}.
 
-“Interstitial Life and the Banality of Novelty in Whitehead’s *Process and Reality*,” *Process Studies* 47.1–2 (2018): 26–46.
+“Contact Traces: On the Creative Technology of Videogame Gore,” _Discourse: Journal for Theoretical Studies in Media and Culture_ 42.3 (Fall 2020): 356–384.
 
-“Of Fear and Exaltation: The Sublime Autonomy of Finance,” *Angelaki: Journal of the Theoretical Humanities* 21.2 (2016): 83–98.
+“Interstitial Life and the Banality of Novelty in Whitehead’s _Process and Reality_,” _Process Studies_ 47.1–2 (2018): 26–46.
 
-“Analogizing Data: The Real Subsumption of Manifest Destiny by Capital,” *Hyperrhiz* 13 (November 2015): {{< link uri="http://hyperrhiz.io/hyperrhiz13/sensors-data-bodies/manifest-data-rambo.html" >}}Link{{< /link >}}.
+“Of Fear and Exaltation: The Sublime Autonomy of Finance,” _Angelaki: Journal of the Theoretical Humanities_ 21.2 (2016): 83–98.
+
+“Analogizing Data: The Real Subsumption of Manifest Destiny by Capital,” _Hyperrhiz_ 13 (November 2015): {{< link uri="http://hyperrhiz.io/hyperrhiz13/sensors-data-bodies/manifest-data-rambo.html" >}}Link{{< /link >}}.
 
 ### Book Chapters
-"Technology Beyond the Enduring Object" in *Negentropy and the Future of Exteriorization*, edited by Mark B. N. Hansen and Bryan Norton (forthcoming).
 
-“The Error-Image: On the Technics of Memory,” *Post-Cinema: Theorizing 21st-Century Film*, eds. Shane Denson and Julia Leyda, Falmer: REFRAME Books (2016):
+"Technology Beyond the Enduring Object" in _Negentropy and the Future of Exteriorization_, edited by Mark B. N. Hansen and Bryan Norton (University of Edinburgh Press, forthcoming).
+
+“The Error-Image: On the Technics of Memory,” _Post-Cinema: Theorizing 21st-Century Film_, eds. Shane Denson and Julia Leyda, Falmer: REFRAME Books (2016):
 {{< link uri="http://reframe.sussex.ac.uk/post-cinema/2-6-rambo/" >}}Link{{< /link >}}.
 
 "The Error-Image" in Chinese translation by Chen Yu (Shanghai Film School at Shanghai University) as part of a forthcoming book in the Cinephilia series, edited by Li Yang (Peking University).
 
-“Organisms in Reticula,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (2016): {{< link uri="http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula" >}}Link{{< /link >}}.
+“Organisms in Reticula,” _Network_Ecologies_, eds. Amanda Starling Gould and Florian Wiencek, (2016): {{< link uri="http://scalar.usc.edu/works/network-ecologies/organisms-in-reticula" >}}Link{{< /link >}}.
 
-Response to Rebecca Norton, “Displacement Paths,” *Network_Ecologies*, eds. Amanda Starling Gould and Florian Wiencek, (August 2016): {{< link uri="http://scalar.usc.edu/works/networkecologies/displacement-paths" >}}Link{{< /link >}}.
+Response to Rebecca Norton, “Displacement Paths,” _Network_Ecologies_, eds. Amanda Starling Gould and Florian Wiencek, (August 2016): {{< link uri="http://scalar.usc.edu/works/networkecologies/displacement-paths" >}}Link{{< /link >}}.
 
 <hr>
 
 ## Awards and Fellowships
+
 National Science Foundation (NSF) Conference Travel Grant, 33rd Annual Conference of the Society for Literature, Science, and the Arts (SLSA), Irvine, CA, November 7–10, 2019.
 
 Katherine Goodman Stern Graduate Fellowship, The Graduate School, Duke University, 2017–2018.
@@ -93,6 +97,7 @@ Summer Research Grant, Graduate School, Duke University, 2014.
 ## Teaching
 
 ### Instructor
+
 "Whitehead with Contemporary Theory," Graduate Seminar in the Program in Literature, co-instructor with Mark Hansen, Fall 2021.
 
 "Being Artificial," Global Cultural Studies Major in the Program in Literature, Spring 2021.
@@ -102,6 +107,7 @@ Summer Research Grant, Graduate School, Duke University, 2014.
 “Breathing Electricity: Cyberspace on Page and Screen,” Global Cultural Studies Major in the Program in Literature, Spring 2015.
 
 ### Teaching Assistant
+
 “Media Theory,” Instructor Mark Hansen, Global Cultural Studies Major in the Program in Literature, Fall 2015.
 
 “Social Networks: From Virus to Internet,” Instructor Mark Hansen, Program in Literature, Spring 2014.
@@ -109,6 +115,7 @@ Summer Research Grant, Graduate School, Duke University, 2014.
 “Bodies and Selves,” Instructor Nima Bassiri, Program in Literature, Fall 2013.
 
 ### Guest Lecturer
+
 Invited Co-instructor, “Reading Whitehead’s _Process and Reality_" graduate independent study, Instructor Mark Hansen, Program in Literature, Fall 2019.
 
 “How to review an article for an academic journal,” for “Publication Workshop” graduate seminar, Instructor Robyn Wiegman, Program in Literature, Fall 2019.
@@ -130,7 +137,9 @@ Invited Co-instructor, “Reading Whitehead’s _Process and Reality_" graduate 
 <hr>
 
 ## Service
+
 ### Professional
+
 Review Board Member, _Angelaki: Journal of the Theoretical Humanities_, December 2017 to May 2023.
 
 Chair, “Microbe Futures 3: Duke's Speculative Sensation Lab, Part 1” 33rd Annual Conference of the Society for Literature, Science, and the Arts , Irvine, CA, November 9–10, 2019.
@@ -144,6 +153,7 @@ Graduate Student Summer Resident, National Humanities Center, Research Triangle 
 Organizer and Chair, “Video Games’ Extra-Ludic Echoes,” 29th Annual Conference of the Society for Literature, Science, and the Arts, Rice University, Houston, TX, November 15, 2015.
 
 ### Institutional
+
 Graphic Designer, “Srinivas Aravamudan Annual Lecture in Critical Theory,” Duke University, September 12–13, 2019.
 
 Graphic Designer, “Srinivas Aravamudan Annual Lecture in Critical Theory,” Duke University, September 20–21, 2018.
@@ -163,6 +173,7 @@ Respondent, “The Ecological Pharmacology of 21st Century Media,” Mark Hansen
 <hr>
 
 ## Research Collaboration
+
 Participant, S-1 Speculative Sensation Lab, Duke University, s-1lab.org, Fall 2012–Fall 2019.
 
 Participant, BrainCultures, Humanities Unbound Lab, Duke University, Fall 2019–Spring 2020.
@@ -182,4 +193,3 @@ Participant, Gilbert Simondon Reading Group, Program in Literature, Duke Univers
 Participant, Creative Coding Workshops, led by Matthew Kenney, Computational Media, Arts, and Culture, Duke University, Spring 2017.
 
 Organizer, Category Theory and Philosophy Reading Group, Program in Literature and Romance Studies, Duke University, Fall 2015–Spring 2016.
-

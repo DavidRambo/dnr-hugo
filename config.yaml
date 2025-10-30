@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: Process Philosophy, Aesthetics, Technology Studies
+  description:
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
@@ -27,21 +27,21 @@ params:
 
 menu:
   nav:
-#    - name: Home
-#      url: /
-#      weight: 1
+    - name: Software Projects
+      url: /projects
+      weight: 1
     - name: Blog
       url: /post/
       weight: 2
     - name: Tags
       url: /tags/
       weight: 3
-    - name: Portfolio
-      url: /portfolio/
+    - name: Academic Portfolio
+      url: /academic_portfolio/
       weight: 4
-#    - name: About
-#      url: /about/
-#      weight: 5
+    #    - name: About
+    #      url: /about/
+    #      weight: 5
     - name: RSS
       url: /index.xml
       weight: 6
