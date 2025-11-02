@@ -1,5 +1,5 @@
 ---
-title: "One-Time Pad over Sockets"
+title: "One-Time Pad over Sockets (C)"
 date: 2025-03-03
 ---
 

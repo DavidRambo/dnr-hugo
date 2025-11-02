@@ -1,5 +1,5 @@
 ---
-title: "Wish Lists Web App"
+title: "Wish Lists Web App (FastAPI, React Router)"
 date: "2024-12-12"
 ---
 

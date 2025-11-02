@@ -1,5 +1,5 @@
 ---
-title: "smallsh"
+title: "smallsh (C)"
 date: "2025-03-03"
 ---
 
