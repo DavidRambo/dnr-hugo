@@ -20,3 +20,6 @@ I'd like to reimplement that as a built-in feature.
 It uses [FastAPI](fastapi.tiangolo.com) and [sqlite](https://sqlite.org/) on the backend, and [React](react.dev) plus [React Router v6](https://reactrouter.com) for the frontend.
 The frontend's code structure and visual design takes as its starting point the React Router [tutorial](https://reactrouter.com/en/main/start/tutorial).
 Indeed, the CSS is heavily indebted to that tutorial's CSS.
+
+Initially, I built it as part of a software engineering course that required us to use a microservices architecture.
+Here's the final showcase video of that version: https://youtu.be/zxTnYocdt1w
