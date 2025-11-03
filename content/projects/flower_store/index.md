@@ -1,5 +1,5 @@
 ---
-title: "Flower Store"
+title: "Flower Store (Flask, TailwindCSS)"
 date: 2023-06-27
 ---
 
