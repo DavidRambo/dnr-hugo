@@ -1,6 +1,6 @@
 ---
 title: "Geographical Distribution of Endangered Languages (Pandas, Numpy, Matplotlib)"
-date: 2022
+date: 2022-01-01
 ---
 
 https://github.com/DavidRambo/endangered_languages_geography
