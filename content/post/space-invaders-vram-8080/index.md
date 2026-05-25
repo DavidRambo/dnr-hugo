@@ -4,6 +4,12 @@ date: "2026-05-25"
 draft: false
 ---
 
+{{< figure
+src="space_invaders_demo.png"
+alt="Space Invaders Demo running in an 8080 emulator"
+caption="The Demo Screen"
+>}}
+
 With three other teammates, I have been working on an emulator of Intel's 8080 microprocessor that will play Space Invaders.
 [Here](https://github.com/DavidRambo/cs467_sp26_emulator_8080) is the repository.
 So, in addition to emulating the 8080 in software, we had to provide peripheral hardware emulation: input, audio, and video.
