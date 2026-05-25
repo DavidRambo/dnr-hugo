@@ -1,5 +1,5 @@
 ---
-title: "Displaying the Space Invader's video ram on the 8080"
+title: "Displaying Space Invaders on an Emulated 8080"
 date: "2026-05-25"
 draft: false
 ---
